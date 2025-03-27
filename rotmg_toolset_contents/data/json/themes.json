@@ -1,0 +1,247 @@
+{
+    "Classic":
+    {
+        "index": 0,
+        
+        "backgroundColor": 657930,
+        "mainPanelColor": 3487029,
+        "chartTitleTextColor": 15658734,
+        "chartBorderColor": 7368816,
+        "chartSelectionColor": 15658734,
+        "chartVerticalLinesColor": 2368548,
+        "chartHorizontalLinesColor": 4605510,
+        "specialCaseTextColor": 16777100,
+
+        "labeledFrameBorderColor": 4671303,
+        "labeledFrameLabelColor": 15658734,
+
+        "calculatorIcon": "green_calculator_icon",
+        "skinViewerIcon": "green_skin_viewer_icon",
+        "itemSandboxIcon": "green_item_sandbox_icon",
+        "itemEditorIcon": "green_item_editor_icon",
+        "lootChecklistIcon": "green_loot_icon",
+        
+        "mainPanel": "gray_main_panel_frame",
+
+        "windowTitleTextColor": 15658734,
+        "windowTextColor": 15658734,
+        "windowFrame": "gray_dark_window_frame",
+        "smallButton": {
+            "textColor": 15658734,
+            "default": "gray_button_small_frame",
+            "pressed": "gray_button_small_pressed_frame"
+        },
+        "bigButton": {
+            "textColor": 15658734,
+            "default": "gray_button_big_frame",
+            "pressed": "gray_button_big_pressed_frame"
+        },
+        "tooltip": {
+            "default": "gray_tooltip_frame",
+            "ut": "gray_ut_tooltip_frame",
+            "st": "gray_st_tooltip_frame",
+            "detailsBackgroundColor": 2960685
+        },
+        "scrollbar": {
+            "backgroundColor": 1447446,
+            "thumb": "gray_scrollbar_frame",
+            "upArrow": "scrollbar_arrow_up",
+            "downArrow": "scrollbar_arrow_down"
+        },
+        "searchbar": {
+            "backgroundFrame": "gray_searchbar_frame",
+            "icon": "search_icon",
+            "textColor": 15658734
+        },
+        "checkbox": {
+            "default": "green_checkbox"
+        },
+        "enchantmentBackgroundColor": 4605510,
+        "inventorySlotTint": 16777215,
+        "walkableAreaTileset": "realm_tileset",
+        "semitransparencyMultiplier": 1.0
+    },
+    "Void":
+    {
+        "index": 1,
+
+        "backgroundColor": 722198,
+        "mainPanelColor": 3487029,
+        "chartTitleTextColor": 16729337,
+        "chartBorderColor": 16729337,
+        "chartSelectionColor": 15658734,
+        "chartVerticalLinesColor": 1839163,
+        "chartHorizontalLinesColor": 3087462,
+        "specialCaseTextColor": 16777100,
+
+        "labeledFrameBorderColor": 5451891,
+        "labeledFrameLabelColor": 16729337,
+
+        "calculatorIcon": "pink_calculator_icon",
+        "skinViewerIcon": "pink_skin_viewer_icon",
+        "itemSandboxIcon": "pink_item_sandbox_icon",
+        "itemEditorIcon": "pink_item_editor_icon",
+        "lootChecklistIcon": "pink_loot_icon",
+
+        "mainPanel": "void_main_panel_frame",
+        "windowTitleTextColor": 16729337,
+        "windowTextColor": 16729337,
+        "windowFrame": "void_window_frame",
+        "smallButton": {
+            "textColor": 16729337,
+            "default": "void_button_small_frame",
+            "pressed": "void_button_small_pressed_frame"
+        },
+        "bigButton": {
+            "textColor": 16729337,
+            "default": "void_button_big_frame",
+            "pressed": "void_button_big_pressed_frame"
+        },
+        "tooltip": {
+            "default": "void_tooltip_frame",
+            "ut": "void_ut_tooltip_frame",
+            "st": "void_st_tooltip_frame",
+            "detailsBackgroundColor": 3284560
+        },
+        "scrollbar": {
+            "backgroundColor": 1445407,
+            "thumb": "void_scrollbar_frame",
+            "upArrow": "void_scrollbar_arrow_up",
+            "downArrow": "void_scrollbar_arrow_down"
+        },
+        "searchbar": {
+            "backgroundFrame": "void_searchbar_frame",
+            "icon": "void_search_icon",
+            "textColor": 16729337
+        },
+        "checkbox": {
+            "default": "pink_checkbox"
+        },
+        "enchantmentBackgroundColor": 5715060,
+        "inventorySlotTint": 13085951,
+        "walkableAreaTileset": "void_tileset",
+        "semitransparencyMultiplier": 1.0
+    },
+    "Abyss":
+    {
+        "index": 2,
+
+        "backgroundColor": 1574663,
+        "mainPanelColor": 3487029,
+        "chartTitleTextColor": 4968673,
+        "chartBorderColor": 15800903,
+        "chartSelectionColor": 4968673,
+        "chartVerticalLinesColor": 2491653,
+        "chartHorizontalLinesColor": 4196617,
+        "specialCaseTextColor": 16777100,
+
+        "labeledFrameBorderColor": 8922172,
+        "labeledFrameLabelColor": 4968673,
+
+        "calculatorIcon": "cyan_calculator_icon",
+        "skinViewerIcon": "cyan_skin_viewer_icon",
+        "itemSandboxIcon": "cyan_item_sandbox_icon",
+        "itemEditorIcon": "cyan_item_editor_icon",
+        "lootChecklistIcon": "cyan_loot_icon",
+
+        "mainPanel": "abyss_main_panel_frame",
+        "windowTitleTextColor": 4968673,
+        "windowTextColor": 4968673,
+        "windowFrame": "abyss_window_frame",
+        "smallButton": {
+            "textColor": 4968673,
+            "default": "abyss_button_small_frame",
+            "pressed": "abyss_button_small_pressed_frame"
+        },
+        "bigButton": {
+            "textColor": 4968673,
+            "default": "abyss_button_big_frame",
+            "pressed": "abyss_button_big_pressed_frame"
+        },
+        "tooltip": {
+            "default": "abyss_tooltip_frame",
+            "ut": "abyss_ut_tooltip_frame",
+            "st": "abyss_st_tooltip_frame",
+            "detailsBackgroundColor": 5245992
+        },
+        "scrollbar": {
+            "backgroundColor": 3411736,
+            "thumb": "abyss_scrollbar_frame",
+            "upArrow": "abyss_scrollbar_arrow_up",
+            "downArrow": "abyss_scrollbar_arrow_down"
+        },
+        "searchbar": {
+            "backgroundFrame": "abyss_searchbar_frame",
+            "icon": "abyss_search_icon",
+            "textColor": 4968673
+        },
+        "checkbox": {
+            "default": "cyan_checkbox"
+        },
+        "enchantmentBackgroundColor": 7742776,
+        "inventorySlotTint": 16746407,
+        "walkableAreaTileset": "abyss_tileset",
+        "semitransparencyMultiplier": 1.0
+    },
+    "RealmEye":
+    {
+        "index": 3,
+
+        "backgroundColor": 15658734,
+        "mainPanelColor": 15658734,
+        "chartTitleTextColor": 0,
+        "chartBorderColor": 0,
+        "chartSelectionColor": 0,
+        "chartVerticalLinesColor": 9868950,
+        "chartHorizontalLinesColor": 9868950,
+        "specialCaseTextColor": 2657530,
+
+        "labeledFrameBorderColor": 4671303,
+        "labeledFrameLabelColor": 15658734,
+
+        "calculatorIcon": "blue_calculator_icon",
+        "skinViewerIcon": "blue_skin_viewer_icon",
+        "itemSandboxIcon": "blue_item_sandbox_icon",
+        "itemEditorIcon": "blue_item_editor_icon",
+        "lootChecklistIcon": "blue_loot_icon",
+
+        "mainPanel": "gray_main_panel_frame",
+        "windowTitleTextColor": 15658734,
+        "windowTextColor": 15658734,
+        "windowFrame": "gray_dark_window_frame",
+        "smallButton": {
+            "textColor": 15658734,
+            "default": "gray_button_small_frame",
+            "pressed": "gray_button_small_pressed_frame"
+        },
+        "bigButton": {
+            "textColor": 15658734,
+            "default": "gray_button_big_frame",
+            "pressed": "gray_button_big_pressed_frame"
+        },
+        "tooltip": {
+            "default": "gray_tooltip_frame",
+            "ut": "gray_ut_tooltip_frame",
+            "st": "gray_st_tooltip_frame",
+            "detailsBackgroundColor": 2960685
+        },
+        "scrollbar": {
+            "backgroundColor": 1447446,
+            "thumb": "gray_scrollbar_frame",
+            "upArrow": "scrollbar_arrow_up",
+            "downArrow": "scrollbar_arrow_down"
+        },
+        "searchbar": {
+            "backgroundFrame": "gray_searchbar_frame",
+            "icon": "search_icon",
+            "textColor": 15658734
+        },
+        "checkbox": {
+            "default": "blue_checkbox"
+        },
+        "enchantmentBackgroundColor": 4605510,
+        "inventorySlotTint": 16777215,
+        "walkableAreaTileset": "nexus_tileset",
+        "semitransparencyMultiplier": 1.4
+    }
+}

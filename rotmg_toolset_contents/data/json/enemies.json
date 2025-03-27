@@ -1,0 +1,185 @@
+{
+    "Nexus Bot":
+    {
+        "texture": {
+            "fileName": "players",
+            "index": 2
+        },
+        "hitpoints": 100000,
+        "defense": 0,
+        "immunities": []
+    },
+    "Training Dummy":
+    {
+        "texture": {
+            "fileName": "lofiEnvironment3",
+            "index": 151
+        },
+        "hitpoints": 1000000,
+        "defense": 0,
+        "immunities": []
+    },
+    "Commander of the Crusade":
+    {
+        "texture": {
+            "fileName": "lostHallsChars8x8",
+            "index": 3
+        },
+        "hitpoints": 7500,
+        "defense": 30,
+        "immunities": []
+    },
+    "Stone Knight":
+    {
+        "texture": {
+            "fileName": "theShattersChars8x8",
+            "index": 1
+        },
+        "hitpoints": 4500,
+        "defense": 35,
+        "immunities": []
+    },
+    "Bes":
+    {
+        "texture": {
+            "fileName": "chars16x16dEncounters",
+            "index": 12
+        },
+        "hitpoints": 48750,
+        "defense": 50,
+        "immunities": [],
+        "mirrorable": false
+    },
+    "The Forgotten King":
+    {
+        "texture": {
+            "fileName": "theShattersChars16x16",
+            "index": 4
+        },
+        "hitpoints": 500000,
+        "defense": 50,
+        "immunities": []
+    },
+    "Void Entity":
+    {
+        "texture": {
+            "fileName": "lostHallsChars16x16",
+            "index": 5
+        },
+        "hitpoints": 300000,
+        "defense": 60,
+        "immunities": [ "Curse", "ArmorBroken"]
+    },
+    "Stone Guardian":
+    {
+        "texture": {
+            "fileName": "chars16x16dEncounters",
+            "index": 20
+        },
+        "hitpoints": 45000,
+        "defense": 80,
+        "immunities": []
+    },
+    "Tormented Golem":
+    {
+        "texture": {
+            "fileName": "lostHallsChars16x16",
+            "index": 0
+        },
+        "hitpoints": 8500,
+        "defense": 1000,
+        "immunities": []
+    },
+    "Medusa":
+    {
+        "texture": {
+            "fileName": "chars16x16dMountains1",
+            "index": 2
+        },
+        "mirrorable": false,
+        "hitpoints": 2000,
+        "defense": 18,
+        "immunities": []
+    },
+    "Dr Terrible":
+    {
+        "texture": {
+            "fileName": "chars16x16rEncounters",
+            "index": 40
+        },
+        "hitpoints": 34000,
+        "defense": 25,
+        "immunities": []
+    },
+    "Lost Sentry":
+    {
+        "texture": {
+            "fileName": "lostHallsChars16x16",
+            "index": 28
+        },
+        "hitpoints": 125000,
+        "defense": 40,
+        "immunities": []
+    },
+    "Oryx the Mad God 3":
+    {
+        "texture": {
+            "fileName": "oryxSanctuaryChars32x32",
+            "index": 0
+        },
+        "hitpoints": 563000,
+        "defense": 75,
+        "immunities": [ "ArmorBroken" ]
+    },
+    "Ethereal Shrine":
+    {
+        "texture": {
+            "fileName": "moonlightVillageObjects16x16",
+            "index": 367
+        },
+        "hitpoints": 115000,
+        "defense": 200,
+        "immunities": [ "Curse", "ArmorBroken" ]
+    },
+    "Avatar of the Forgotten King":
+    {
+        "texture": {
+            "fileName": "theShattersChars32x32",
+            "index": 7
+        },
+        "hitpoints": 125000,
+        "defense": 90,
+        "immunities": []
+    },
+    "Thessal the Mermaid Goddess":
+    {
+        "texture": {
+            "fileName": "chars16x16dEncounters2",
+            "index": 16
+        },
+        "hitpoints": 52000,
+        "defense": 60,
+        "immunities": []
+    },
+    "Cube God":
+    {
+        "texture": {
+            "fileName": "lofiChar216x16",
+            "index": 55
+        },
+        "hitpoints": 16000,
+        "defense": 40,
+        "immunities": []
+    },
+    "Mysterious Crystal":
+    {
+        "texture": {
+            "fileName": "chars16x16dEncounters",
+            "index": 5
+        },
+        "hitpoints": 75000,
+        "defense": 15,
+        "heal": 75000,
+        "immunities": []
+    }
+}

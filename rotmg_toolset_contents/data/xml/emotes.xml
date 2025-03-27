@@ -1,0 +1,2924 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object type="0xc0a5" id="White Bag Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>White Bag (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>288</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>288</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc0a6" id="Good Luck Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Good Luck (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>289</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>289</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc0a7" id="OK Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>OK Emote (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>290</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>290</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc0a8" id="Question Mark Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Question Mark Emote (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>291</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>291</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc0a9" id="Exclamation Mark Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Exclamation Mark Emote (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>292</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>292</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc0aa" id="Nexus Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Nexus Emote (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>316</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>316</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc0ab" id="Clock Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Clock Emote (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>306</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>306</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc0ac" id="Warning Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Warning Emote (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>307</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>307</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc0ad" id="Eye Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Eye Emote (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>308</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>308</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc0f1" id="Blood Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Blood (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>375</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>375</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC5FA" id="Weapon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Weapon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>405</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>405</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc200" id="Rock Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Rock (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>525</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>525</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc201" id="Paper Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Paper (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>526</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>526</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc202" id="Scissors Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Scissors (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>527</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>527</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc203" id="Crazy Chicken Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Crazy Chicken (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>528</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>528</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc204" id="Attack Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Attack (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>529</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>529</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc205" id="Kisses Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Kisses (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>530</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>530</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc206" id="Heart Eyes Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Heart Eyes (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>531</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>531</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc207" id="Heart With Arrow Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Heart With Arrow (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>532</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>532</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc208" id="Heart Gift Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Heart Gift (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>533</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>533</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc209" id="Bouquet Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Bouquet (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>534</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>534</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc20a" id="F Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>F (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>535</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>535</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc20b" id="Bronze Trophy Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Bronze Trophy (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>536</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>536</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc20c" id="Silver Trophy Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Silver Trophy (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>537</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>537</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc20d" id="Gold Trophy Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Gold Trophy (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>538</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>538</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object id="Ecstatic Fish Emote" type="0x5149">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Ecstatic Fish</DisplayId>
+    <Description>Unlocks the Ecstatic Fish Emote. The emote will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>moonlightVillageObjects16x16</File>
+      <Index>459</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>moonlightVillageObjects16x16</File>
+      <Index>459</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc20e" id="Clown Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Clown (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>547</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>547</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc20f" id="Playful Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Playful (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>544</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>544</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc210" id="Sweating Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Sweating (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>545</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>545</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc211" id="Goofy Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Goofy (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>546</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>546</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc212" id="Chocolate Bunny Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Chocolate Bunny (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>548</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>548</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc213" id="Nerd Chocolate Bunny Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Nerd Chocolate Bunny (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>549</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>549</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc214" id="Basket Egg Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Basket Egg Emote (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>550</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>550</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc215" id="Rainbow Egg Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Rainbow Egg Emote (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>551</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>551</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc216" id="Broken Egg Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Broken Egg Emote (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>552</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>552</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc217" id="Frozen Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Frozen (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>553</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>553</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc218" id="Dodge Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Dodge (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>554</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>554</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc219" id="Portal Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Portal (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>555</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>555</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc251" id="Mixture Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Mixture (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>556</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>556</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc252" id="Surprise Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Surprise (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>557</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>557</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc253" id="Palm Tree Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Palm Tree (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>558</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>558</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc254" id="Coconut Cocktail Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Coconut Cocktail (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>559</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>559</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc255" id="Watermelon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Watermelon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>560</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>560</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc256" id="Beach Bucket Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Beach Bucket (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>561</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>561</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc257" id="Beach Shovel Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Beach Shovel (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>562</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>562</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc258" id="Water Pistol Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Water Pistol (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>563</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>563</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc259" id="Sundae Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Sundae (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>564</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>564</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc25a" id="Ice Cream Cone Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Ice Cream Cone (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>565</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>565</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc265" id="Summer Cocktail Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Summer Cocktail (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>566</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>566</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc25c" id="Beach Ball Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Beach Ball (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>567</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>567</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc25d" id="Summer Sun Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Summer Sun (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>568</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>568</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc25e" id="Large Palm Tree Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Large Palm Tree (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>569</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>569</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc25f" id="Large Watermelon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Large Watermelon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>570</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>570</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc260" id="Large Summer Cocktail Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Large Summer Cocktail (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>571</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>571</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc261" id="Large Beach Bucket Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Large Beach Bucket (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>572</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>572</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc266" id="Large Beach Ball Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Large Beach Ball (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>573</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>573</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc269" id="Large Ice Cream Cone Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Large Ice Cream Cone (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>574</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>574</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc264" id="Water Gun Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Water Gun (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>575</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>575</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc26a" id="Hero's Bronze Trophy Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Hero's Bronze Trophy (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>576</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>576</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc26b" id="Hero's Silver Trophy Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Hero's Silver Trophy (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>577</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>577</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc26c" id="Hero's Gold Trophy Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Hero's Gold Trophy (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>578</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>578</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc26d" id="Surprised Cat Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Surprised Cat (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>579</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>579</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc5f7" id="Oryx Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Oryx (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>580</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>580</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc5f8" id="Run Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Run (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>581</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>581</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc5f9" id="Damage Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Damage (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>582</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>582</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc5fb" id="Gladiator Oryx Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Gladiator Oryx (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>583</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>583</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc5fc" id="Fire Sword Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Fire Sword (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>584</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>584</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xc5fd" id="Mad Demon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Mad Demon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>585</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>585</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC600" id="Trade Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Trade (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>586</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>586</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC601" id="Eyes Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Eyes (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>587</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>587</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC608" id="Dove Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Dove (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>591</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>591</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC609" id="Raven Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Raven (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>592</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>592</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC724" id="Bigfoot Footprint Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Bigfoot Footprint (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>593</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>593</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC725" id="Turkey Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Turkey (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>594</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>594</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC726" id="Cooked Turkey Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Cooked Turkey (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>595</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>595</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC727" id="Little Chicken Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Little Chicken (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>596</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>596</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC728" id="Jack O Lantern Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Jack O Lantern (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>597</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>597</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC737" id="Sick Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Sick (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>599</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>599</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC81C" id="Snowman Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Snowman (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>600</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>600</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC81D" id="Gingerbread Man Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Gingerbread Man (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>601</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>601</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC81E" id="Candy Cane Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Candy Cane (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>602</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>602</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC81F" id="Snow Crystals Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Snow Crystals (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>603</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>603</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC820" id="Frozen God Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Frozen God (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>604</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>604</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC821" id="Christmas Tree Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Christmas Tree (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>605</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>605</Index>
+    </EmoteTexture>
+    <EmoteAnimation prob="1" period="0">
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>605</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>606</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>607</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>608</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>609</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>610</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>611</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>612</Index>
+        </Texture>
+      </Frame>
+    </EmoteAnimation>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC822" id="Oryxmas Present Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Oryxmas Present (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>613</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>613</Index>
+    </EmoteTexture>
+    <EmoteAnimation prob="1" period="0">
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>613</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>614</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>615</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>616</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>617</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>618</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>619</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>620</Index>
+        </Texture>
+      </Frame>
+    </EmoteAnimation>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC823" id="Snow Globe Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Snow Globe (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>621</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>621</Index>
+    </EmoteTexture>
+    <EmoteAnimation prob="1" period="0">
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>621</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>622</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>623</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>624</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>625</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>626</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>627</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>628</Index>
+        </Texture>
+      </Frame>
+    </EmoteAnimation>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC82A" id="Happy Dragon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Happy Dragon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>629</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>629</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC82B" id="Shocked Dragon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Shocked Dragon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>630</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>630</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC82C" id="Sleepy Dragon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Sleepy Dragon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>631</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>631</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC82D" id="Joyful Dragon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Joyful Dragon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>632</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>632</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC82E" id="Unamused Dragon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Unamused Dragon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>633</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>633</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC883" id="Choco Bunny Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Chocolate Bunny (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>636</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>636</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC884" id="Melting Chocolate Bunny Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Melting Chocolate Bunny (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>637</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>637</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC885" id="Carrot Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Carrot (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>638</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>638</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC886" id="Staring Biff Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Staring Biff (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>639</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>639</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC887" id="Sulking Biff Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Sulking Biff (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>640</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>640</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC888" id="Bitter Biff Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Bitter Biff (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>641</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>641</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC889" id="Happy Biff Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Happy Biff (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>642</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>642</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC8A1" id="Jackal Lord Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Jackal Lord (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>643</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>643</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC8A2" id="Bes Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Bes (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>644</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>644</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC8A3" id="Nut Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Nut (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>645</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>645</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC8A4" id="Geb Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Geb (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>646</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>646</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC8A5" id="Celebrate Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Salty (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>647</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>647</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC8A6" id="Pepper Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Pepper (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>650</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>650</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC8A7" id="Salty Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Salty (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>649</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>649</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC8A8" id="Spicy Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Spicy (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>648</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>648</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC8E1" id="Sand Tornado Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Sand Tornado (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>651</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>651</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC989" id="Surprised Thessal Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Surprised Thessal (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>652</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>652</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC98A" id="Grumpy Fish Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Grumpy Fish (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>653</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>653</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC98B" id="Sly Squid Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Sly Squid (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>654</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>654</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC98C" id="Adorable Slurp Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Adorable Slurp (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>655</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>655</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC9B6" id="Beachzone Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Beachzone (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>656</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>656</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xC9E5" id="Void Vortex Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Void Vortex (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>657</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>657</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCA05" id="Dark Whisper Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Dark Whisper (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>658</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>658</Index>
+    </EmoteTexture>
+    <EmoteAnimation prob="1" period="0">
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>658</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>659</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>660</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>661</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>662</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>663</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>664</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.1">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>665</Index>
+        </Texture>
+      </Frame>
+    </EmoteAnimation>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCA5A" id="Staring Wanderer Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Staring Wanderer (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>666</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>666</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCA5B" id="Angry Wanderer Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Angry Wanderer (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>667</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>667</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCA5C" id="Anxious Wanderer Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Anxious Wanderer (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>668</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>668</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCA5D" id="Surprised Wanderer Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Surprised Wanderer (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>669</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>669</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCA5E" id="Murderous Ramm Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Murderous Ramm (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>670</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>670</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCA5F" id="Evil Ozuchi Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Evil Ozuchi (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>671</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>671</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCA60" id="Murderous Izel Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Murderous Izel (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>672</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>672</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCA61" id="Staring Nefret Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Staring Nefret (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>673</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>673</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCAB7" id="Crystal Hatchling Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Crystal Hatchling (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>674</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>674</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCAB8" id="Heartbeat of the Wetlands Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Heartbeat of the Wetlands (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>675</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>675</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCAB9" id="Avalon the Scribe Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Avalon the Scribe (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>676</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>676</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCABA" id="Marble Minion Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Marble Minion (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>677</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>677</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCABB" id="Young Deity Geb Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Young Deity Geb (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>678</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>678</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCABC" id="Dark Arts Student Ruthven Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Dark Arts Student Ruthven (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>679</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>679</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCABD" id="Factory Control Prototype Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Factory Control Prototype (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>680</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>680</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCABE" id="The Begotten King Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>The Begotten King (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>681</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>681</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCADE" id="Compass Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Compass (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>682</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>682</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCADF" id="Treasure Chest Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Treasure Chest (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>683</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>683</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCAE0" id="Excited Jon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Excited Jon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>684</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>684</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCAE1" id="Anxious Jon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Anxious Jon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>685</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>685</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCAE2" id="Wary Jon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Wary Jon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>686</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>686</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCAE3" id="Happy Jon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Happy Jon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>687</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>687</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCAE4" id="Suspicious Jon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Suspicious Jon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>688</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>688</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+  <Object type="0xCAE5" id="Death Flag Jon Emote">
+    <Class>Emote</Class>
+    <Item />
+    <SlotType>10</SlotType>
+    <DisplayId>Death Flag Jon (emote)</DisplayId>
+    <Description>Unlocks an Emote which will be added to your Wardrobe.</Description>
+    <Consumable />
+    <SecretEmote />
+    <Texture>
+      <File>lofiObj</File>
+      <Index>689</Index>
+    </Texture>
+    <EmoteTexture>
+      <File>lofiObj</File>
+      <Index>689</Index>
+    </EmoteTexture>
+    <BagType>2</BagType>
+    <Soulbound />
+    <Activate>Emote</Activate>
+  </Object>
+</Objects>

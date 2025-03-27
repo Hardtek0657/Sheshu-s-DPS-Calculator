@@ -1,0 +1,326 @@
+{
+    "Wizard":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 267
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 52
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 32
+        }
+    },
+    "Necromancer":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 273
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 57
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 27
+        }
+    },
+    "Mystic":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 275
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 59
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 25
+        }
+    },
+    "Priest":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 268
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 54
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 31
+        }
+    },
+    "Sorcerer":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 277
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 61
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 23
+        }
+    },
+    "Summoner":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 708
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 162
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 668
+        }
+    },
+    "Warrior":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 269
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 51
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 34
+        }
+    },
+    "Paladin":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 271
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 56
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 29
+        }
+    },
+    "Knight":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 270
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 55
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 30
+        }
+    },
+    "Samurai":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 424
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 192
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 383
+        }
+    },
+    "Kensei":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 786
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 52
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 787
+        }
+    },
+    "Ninja":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 278
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 53
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 22
+        }
+    },
+    "Rogue":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 265
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 53
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 33
+        }
+    },
+    "Assassin":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 272
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 62
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 28
+        }
+    },
+    "Trickster":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 276
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 60
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 24
+        }
+    },
+    "Archer":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 266
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 50
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 35
+        }
+    },
+    "Huntress":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 274
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 58
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 26
+        }
+    },
+    "Bard":
+    {
+        "Christmas":
+        {
+            "File": "playerskins",
+            "Index": 558
+        },
+        "Halloween":
+        {
+            "File": "chars8x8rEncounters",
+            "Index": 148
+        },
+        "AprilFools":
+        {
+            "File": "playerskins",
+            "Index": 557
+        }
+    }
+}

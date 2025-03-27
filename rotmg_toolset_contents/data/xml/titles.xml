@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object type="0x99fd" id="Title_Mad">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Mad</DisplayId>
+    <TitleTier>2</TitleTier>
+    <UnlockRequirement>Complete Oryx’s Chamber 50 times</UnlockRequirement>
+    <TitleType>Prefix</TitleType>
+    <UnlockStatRequirement stat="OryxsChambersCompleted" amount="50" />
+  </Object>
+  <Object type="0x99fe" id="Title_Drunkard">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Drunkard</DisplayId>
+    <TitleTier>3</TitleTier>
+    <UnlockRequirement>Complete Wine Cellar 50 times</UnlockRequirement>
+    <TitleType>Suffix</TitleType>
+    <UnlockStatRequirement stat="WineCellarsCompleted" amount="50" />
+  </Object>
+  <Object type="0x99ff" id="Title_Vanquisher">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Vanquisher</DisplayId>
+    <TitleTier>4</TitleTier>
+    <UnlockRequirement>Complete Oryx’s Sanctuary 50 times</UnlockRequirement>
+    <TitleType>Suffix</TitleType>
+    <UnlockStatRequirement stat="OryxsSanctuarysCompleted" amount="50" />
+  </Object>
+  <Object type="0x9a00" id="Title_Deadly">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Deadly</DisplayId>
+    <TitleTier>3</TitleTier>
+    <UnlockRequirement>Kill 10K monsters</UnlockRequirement>
+    <TitleType>Prefix</TitleType>
+    <UnlockStatRequirement stat="MonsterKills" amount="10000" />
+  </Object>
+  <Object type="0x9a01" id="Title_SlayerOfGods">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Slayer of Gods</DisplayId>
+    <TitleTier>4</TitleTier>
+    <UnlockRequirement>Kill 2500 Gods</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <UnlockStatRequirement stat="GodKills" amount="2500" />
+  </Object>
+  <Object type="0x9a02" id="Title_Liberator">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Liberator</DisplayId>
+    <TitleTier>3</TitleTier>
+    <UnlockRequirement>Complete 1000 Realm Encounter battles</UnlockRequirement>
+    <TitleType>Suffix</TitleType>
+    <UnlockStatRequirement stat="EncounterKills" amount="1000" />
+  </Object>
+  <Object type="0x9a03" id="Title_BountyHunter">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Bounty Hunter</DisplayId>
+    <TitleTier>3</TitleTier>
+    <UnlockRequirement>Kill 2500 Quest monsters</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <UnlockStatRequirement stat="QuestsCompleted" amount="2500" />
+  </Object>
+  <Object type="0x9a04" id="Title_Marksman">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Marksman</DisplayId>
+    <TitleTier>3</TitleTier>
+    <UnlockRequirement>Hit an enemy 200K times</UnlockRequirement>
+    <TitleType>Suffix</TitleType>
+    <UnlockStatRequirement stat="ShotsThatDamage" amount="200000" />
+  </Object>
+  <Object type="0x9a05" id="Title_Trailblazer">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Trailblazer</DisplayId>
+    <TitleTier>2</TitleTier>
+    <UnlockRequirement>Discover 1M squares</UnlockRequirement>
+    <TitleType>Prefix</TitleType>
+    <UnlockStatRequirement stat="TilesUncovered" amount="1000000" />
+  </Object>
+  <Object type="0x9a06" id="Title_CartographerOfTheRealm">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Cartographer of the Realm</DisplayId>
+    <TitleTier>4</TitleTier>
+    <UnlockRequirement>Discover 25M squares</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <UnlockStatRequirement stat="TilesUncovered" amount="25000000" />
+  </Object>
+  <Object type="0x9a07" id="Title_EnemyOfTheCourt">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Enemy of the Court</DisplayId>
+    <TitleTier>2</TitleTier>
+    <UnlockRequirement>Obtain the “Enemy of the Court” Fame Bonus</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <UnlockStatRequirement stat="LairOfShaitansCompleted" amount="1" />
+    <UnlockStatRequirement stat="PuppetMastersEncoresCompleted" amount="1" />
+    <UnlockStatRequirement stat="CnidarianReefsCompleted" amount="1" />
+    <UnlockStatRequirement stat="SecludedThicketsCompleted" amount="1" />
+    <UnlockStatRequirement stat="HighTechTerrorsCompleted" amount="1" />
+  </Object>
+  <Object type="0x9a08" id="Title_ConquerorOfTheRealm">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Conqueror of the Realm</DisplayId>
+    <TitleTier>3</TitleTier>
+    <UnlockRequirement>Obtain the “Conqueror of the Realm” Fame Bonus</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <UnlockStatRequirement stat="DavyJonesLockersCompleted" amount="1" />
+    <UnlockStatRequirement stat="IceCavesCompleted" amount="1" />
+    <UnlockStatRequirement stat="LairOfDraconisCompleted" amount="1" />
+    <UnlockStatRequirement stat="MountainTemplesCompleted" amount="1" />
+    <UnlockStatRequirement stat="DavyJonesLockersCompleted" amount="1" />
+    <UnlockStatRequirement stat="ThirdDimensionsCompleted" amount="1" />
+    <UnlockStatRequirement stat="OceanTrenchesCompleted" amount="1" />
+    <UnlockStatRequirement stat="TombOfTheAncientsCompleted" amount="1" />
+    <UnlockStatRequirement stat="TheShattersCompleted" amount="1" />
+    <UnlockStatRequirement stat="TheNestsCompleted" amount="1" />
+    <UnlockStatRequirement stat="FungalCavernsCompleted" amount="1" />
+    <UnlockStatRequirement stat="CrystalCavernsCompleted" amount="1" />
+    <UnlockStatRequirement stat="LostHallsCompleted" amount="1" />
+  </Object>
+  <Object type="0x9a09" id="Title_HeroOfTheNexus">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Hero of the Nexus</DisplayId>
+    <TitleTier>5</TitleTier>
+    <UnlockRequirement>Obtain the “Hero of the Nexus” Fame Bonus</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <UnlockStatRequirement stat="PirateCavesCompleted" amount="1" />
+    <UnlockStatRequirement stat="ForestMazesCompleted" amount="1" />
+    <UnlockStatRequirement stat="SpiderDensCompleted" amount="1" />
+    <UnlockStatRequirement stat="SnakePitsCompleted" amount="1" />
+    <UnlockStatRequirement stat="ForbiddenJunglesCompleted" amount="1" />
+    <UnlockStatRequirement stat="TheHivesCompleted" amount="1" />
+    <UnlockStatRequirement stat="AncientRuinsCompleted" amount="1" />
+    <UnlockStatRequirement stat="MagicWoodsCompleted" amount="1" />
+    <UnlockStatRequirement stat="SpriteWorldsCompleted" amount="1" />
+    <UnlockStatRequirement stat="CandylandHuntingGroundsCompleted" amount="1" />
+    <UnlockStatRequirement stat="CaveOfAThousandTreasuresCompleted" amount="1" />
+    <UnlockStatRequirement stat="UndeadLairsCompleted" amount="1" />
+    <UnlockStatRequirement stat="AbyssOfDemonsCompleted" amount="1" />
+    <UnlockStatRequirement stat="ManorOfTheImmortalsCompleted" amount="1" />
+    <UnlockStatRequirement stat="PuppetMastersTheatresCompleted" amount="1" />
+    <UnlockStatRequirement stat="ToxicSewersCompleted" amount="1" />
+    <UnlockStatRequirement stat="CursedLibrariesCompleted" amount="1" />
+    <UnlockStatRequirement stat="HauntedCemeteriesCompleted" amount="1" />
+    <UnlockStatRequirement stat="MadLabsCompleted" amount="1" />
+    <UnlockStatRequirement stat="ParasiteChambersCompleted" amount="1" />
+    <UnlockStatRequirement stat="DavyJonesLockersCompleted" amount="1" />
+    <UnlockStatRequirement stat="MountainTemplesCompleted" amount="1" />
+    <UnlockStatRequirement stat="ThirdDimensionsCompleted" amount="1" />
+    <UnlockStatRequirement stat="LairOfDraconisCompleted" amount="1" />
+    <UnlockStatRequirement stat="DeadwaterDocksCompleted" amount="1" />
+    <UnlockStatRequirement stat="WoodlandLabyrinthsCompleted" amount="1" />
+    <UnlockStatRequirement stat="CrawlingDepthsCompleted" amount="1" />
+    <UnlockStatRequirement stat="OceanTrenchesCompleted" amount="1" />
+    <UnlockStatRequirement stat="IceCavesCompleted" amount="1" />
+    <UnlockStatRequirement stat="TombOfTheAncientsCompleted" amount="1" />
+    <UnlockStatRequirement stat="FungalCavernsCompleted" amount="1" />
+    <UnlockStatRequirement stat="CrystalCavernsCompleted" amount="1" />
+    <UnlockStatRequirement stat="TheNestsCompleted" amount="1" />
+    <UnlockStatRequirement stat="TheShattersCompleted" amount="1" />
+    <UnlockStatRequirement stat="LostHallsCompleted" amount="1" />
+    <UnlockStatRequirement stat="CultistHideoutsCompleted" amount="1" />
+    <UnlockStatRequirement stat="TheVoidsCompleted" amount="1" />
+    <UnlockStatRequirement stat="OryxsCastlesCompleted" amount="1" />
+    <UnlockStatRequirement stat="LairOfShaitansCompleted" amount="1" />
+    <UnlockStatRequirement stat="PuppetMastersEncoresCompleted" amount="1" />
+    <UnlockStatRequirement stat="CnidarianReefsCompleted" amount="1" />
+    <UnlockStatRequirement stat="SecludedThicketsCompleted" amount="1" />
+    <UnlockStatRequirement stat="HighTechTerrorsCompleted" amount="1" />
+    <UnlockStatRequirement stat="OryxsChambersCompleted" amount="1" />
+    <UnlockStatRequirement stat="WineCellarsCompleted" amount="1" />
+    <UnlockStatRequirement stat="OryxsSanctuarysCompleted" amount="1" />
+  </Object>
+  <Object type="0x9a0a" id="Title_Nexus">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Nexus</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Prefix</TitleType>
+  </Object>
+  <Object type="0x9a0b" id="Title_Adventurer">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Adventurer</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Prefix</TitleType>
+  </Object>
+  <Object type="0x9a0c" id="Title_Inagural_Champion">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Inaugural Champion</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Full</TitleType>
+  </Object>
+  <Object type="0x9a0d" id="Title_The_Triumphant">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Triumphant</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Full</TitleType>
+  </Object>
+  <Object type="0x9a0e" id="Title_Collector">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Collector</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Suffix</TitleType>
+  </Object>
+  <Object type="0x9a0f" id="Title_Battler">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Battler</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Suffix</TitleType>
+  </Object>
+  <Object type="0x9a10" id="Title_Infiltrator">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Infiltrator</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Suffix</TitleType>
+  </Object>
+  <Object type="0x9a11" id="Title_Syndicate_Minion">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Syndicate Minion</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Full</TitleType>
+  </Object>
+  <Object type="0x9a12" id="Title_Saboteur">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Saboteur</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Suffix</TitleType>
+  </Object>
+  <Object type="0x9a13" id="Title_Syndicate_Mercenary">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Syndicate Mercenary</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Full</TitleType>
+  </Object>
+  <Object type="0x9a14" id="Title_Savior_of_Oryx">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Savior of Oryx</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Full</TitleType>
+  </Object>
+  <Object type="0x9a15" id="Title_Syndicate_Slayer">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Syndicate Slayer</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Full</TitleType>
+  </Object>
+  <Object type="0x9a16" id="Title_Wanderer">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Wanderer</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Full</TitleType>
+  </Object>
+  <Object type="0x9a17" id="Title_Conspirator">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Conspirator</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked in MOTMG 2022 Battle Pass.</UnlockRequirement>
+    <TitleType>Suffix</TitleType>
+  </Object>
+  <Object type="0x9a18" id="Title_Vindicator">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Vindicator</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked in MOTMG 2022 Battle Pass.</UnlockRequirement>
+    <TitleType>Suffix</TitleType>
+  </Object>
+  <Object type="0x9a19" id="Title__Syndicate_Infiltrator">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Syndicate Infiltrator</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Syndicate Infiltration Event Reward.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a1a" id="Title__Master_of_Disguise">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Master Of Disguise</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Syndicate Infiltration Event Reward.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a1b" id="Title_Slayer_of_Sentinels">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Slayer of Sentinels</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Shatters Rehearsal Event Reward.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a1c" id="Title_Archmage_Assassin">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Archmage Assassin</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Shatters Rehearsal Event Reward.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a1d" id="Title_Forgotten_Kingslayer">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Forgotten Kingslayer</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Shatters Rehearsal Event Reward.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a1e" id="Title_Destroyer_Of_Shatters">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Destroyer of Shatters</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Shatters Rehearsal Event Reward.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a1f" id="Title_Voodoo_Queen">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Voodoo Queen</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked in the second season of the Battle Pass.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+  </Object>
+  <Object type="0x9a20" id="Title_Witch_Doctor">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Witch Doctor</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked in the second season of the Battle Pass.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+  </Object>
+  <Object type="0x9a21" id="Title_Swamp">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Swamp</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Complete Sulfurous Wetlands 5 times</UnlockRequirement>
+    <TitleType>Prefix</TitleType>
+    <UnlockStatRequirement stat="SulfurousWetlandsCompleted" amount="5" />
+  </Object>
+  <Object type="0x9a22" id="Title_Monster">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Monster</DisplayId>
+    <TitleTier>3</TitleTier>
+    <UnlockRequirement>Complete Sulfurous Wetlands 50 times</UnlockRequirement>
+    <TitleType>Suffix</TitleType>
+    <UnlockStatRequirement stat="SulfurousWetlandsCompleted" amount="50" />
+  </Object>
+  <Object type="0x9a23" id="Title_Sulfurous_Speedster">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Sulfurous Speedster</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked as part of a Wetlands Event.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a24" id="Title_Slayer_of_Simulacrums">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Slayer of Simulacrums</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked as part of a seasonal community event.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a25" id="Title_Revolutionary_Meccano">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Revolutionary Meccano</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked in the third season of the Battle Pass.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+  </Object>
+  <Object type="0x9a26" id="Title_Archivist_of_Valves">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Archivist of Valves</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked in the third season of the Battle Pass.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+  </Object>
+  <Object type="0x9a27" id="Title_Hero_of_the_Exoskeleton">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Hero of the Exoskeleton</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked by completing a mission.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+  </Object>
+  <Object type="0x9a28" id="Title_Wet_Realmer">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Wet Realmer</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a29" id="Title_Factory_Inspector">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Factory Inspector</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Reward from "Full Steam Ahead" Event.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a2a" id="Title_Voidwalker">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Voidwalker</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked by completing a mission.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a2b" id="Title_Kingdom_Conqueror">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Kingdom Conqueror</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked by completing a mission.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a2c" id="Title_Tech_Titan">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Tech Titan</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked in the fourth season of the Battle Pass.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a2d" id="Title_Guardian_of_Nature">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Guardian of Nature</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked in the fourth season of the Battle Pass.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a2e" id="Title_Leprechaun_Hunter">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Leprechaun Hunter</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked by being a profficient hunter of Leprechauns.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a2f" id="Title_Master_of_Secrets">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Master of Secrets</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked in the fifth season of the Battle Pass.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x9a30" id="Title_Flower_of_the_Sands">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Flower of the Sands</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked in the fifth season of the Battle Pass.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Fisherman" type="0x518f">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>Fisherman</DisplayId>
+    <TitleTier>3</TitleTier>
+    <TitleType>Suffix</TitleType>
+  </Object>
+  <Object id="Title_NPC" type="0xc370">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>NPC</DisplayId>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0xc372" id="Title_Moonlight_Dancer">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Moonlight Dancer</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement>Unlocked as part of the Moonlight Party event.</UnlockRequirement>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Rumoured" type="0xc374">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Rumoured</DisplayId>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Prophesied" type="0xC376">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Prophesied</DisplayId>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Fated_Hero" type="0xC378">
+    <Title />
+    <DisplayId>the Fated Hero</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Fate_Weaver" type="0xC37B">
+    <Title />
+    <DisplayId>the Fate Weaver</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Sinner" type="0xC37D">
+    <Title />
+    <DisplayId>the Sinner</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Sinister_Speedster" type="0xC37F">
+    <Title />
+    <DisplayId>the Sinister Speedster</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Parasitic_Speedster" type="0xC381">
+    <Title />
+    <DisplayId>the Parasitic Speedster</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Night_Prince" type="0xC383">
+    <Title />
+    <DisplayId>the Night Prince</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Master" type="0xC5DD">
+    <Title />
+    <DisplayId>Master</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Suffix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Combat" type="0xC5DF">
+    <Title />
+    <DisplayId>Combat</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Prefix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Aspirant" type="0xC5E1">
+    <Title />
+    <DisplayId>the Aspirant</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Achieved" type="0xC5E3">
+    <Title />
+    <DisplayId>the Achieved</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Mangry" type="0xC5E5">
+    <Title />
+    <DisplayId>Mangry</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Petless" type="0xC5E7">
+    <Title />
+    <DisplayId>Petless</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Prefix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Headhunter" type="0xC5E9">
+    <Title />
+    <DisplayId>Headhunter</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Suffix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Bounty_Hunter" type="0xC5EB">
+    <Title />
+    <DisplayId>Bounty Hunter</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Suffix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Savior" type="0xC5FF">
+    <Title />
+    <DisplayId>the Savior</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Hops_Hero" type="0xC602">
+    <Title />
+    <DisplayId>the Hops Hero</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Brewer" type="0xC604">
+    <Title />
+    <DisplayId>Brewer</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Suffix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Brewmeister" type="0xC606">
+    <Title />
+    <DisplayId>Brewmeister</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Suffix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Pretzels_Collector" type="0xC6D1">
+    <Title />
+    <DisplayId>the Pretzels Collector</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Bratwurst_King" type="0xC6D3">
+    <Title />
+    <DisplayId>the Bratwurst King</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Invoker_of_the_Netherworld" type="0xC671">
+    <Title />
+    <DisplayId>Invoker of the Netherworld</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Abyssal_Champion" type="0xC673">
+    <Title />
+    <DisplayId>Abyssal Champion</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Shadowcaller" type="0xC675">
+    <Title />
+    <DisplayId>the Shadowcaller</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Acolyte_of_the_Abyss" type="0xC677">
+    <Title />
+    <DisplayId>Acolyte of the Abyss</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Zombie_Slayer" type="0xC679">
+    <Title />
+    <DisplayId>the Zombie Slayer</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Master_of_Reanimation" type="0xC67B">
+    <Title />
+    <DisplayId>Master of Reanimation</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Legend_of_the_Gorgon" type="0xC731">
+    <Title />
+    <DisplayId>Legend of the Gorgon</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <Texture>
+      <File>lofiObj</File>
+      <Index>598</Index>
+    </Texture>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Gorgon's_Challenger" type="0xC733">
+    <Title />
+    <DisplayId>Gorgon's Challenger</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Relic_Raider" type="0xC738">
+    <Title />
+    <DisplayId>The Relic Raider</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>5</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Merrymaker" type="0xC742">
+    <Title />
+    <DisplayId>the Merrymaker</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Frost_Conqueror" type="0xC744">
+    <Title />
+    <DisplayId>the Frost Conqueror</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Joyful_Spirit" type="0xC748">
+    <Title />
+    <DisplayId>the Joyful Spirit</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Snow_Trooper" type="0xC74A">
+    <Title />
+    <DisplayId>the Snow Trooper</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Avalanche" type="0xC74C">
+    <Title />
+    <DisplayId>the Avalanche</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>5</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Cosmic_Conqueror" type="0xC74E">
+    <Title />
+    <DisplayId>the Cosmic Conqueror</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Starborne_Savior" type="0xC750">
+    <Title />
+    <DisplayId>the Starborne Savior</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Noble_Vanquisher" type="0xC752">
+    <Title />
+    <DisplayId>the Noble Vanquisher</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Realm's_Royal_Defender" type="0xC754">
+    <Title />
+    <DisplayId>the Realm's Royal Defender</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Dragon" type="0xC834">
+    <Title />
+    <DisplayId>Dragon</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Suffix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Lunar" type="0xC836">
+    <Title />
+    <DisplayId>the Lunar</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Prefix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Lover" type="0xC838">
+    <Title />
+    <DisplayId>Lover</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Suffix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Speedkillx" type="0xC83A">
+    <Title />
+    <DisplayId>the Speedkillx</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>6</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Bunny_Champion" type="0xC842">
+    <Title />
+    <DisplayId>the Bunny Champion</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Lucky" type="0xC844">
+    <Title />
+    <DisplayId>the Lucky</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Prefix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Leprechaun" type="0xC846">
+    <Title />
+    <DisplayId>Leprechaun</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Suffix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Title_Unlocker" type="0xC84A">
+    <Title />
+    <DisplayId>the Title Unlocker</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Foolish" type="0xC84B">
+    <Title />
+    <DisplayId>the Foolish</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Prefix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Joke" type="0xC84C">
+    <Title />
+    <DisplayId>Joke</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Suffix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Eggcellent_Crusader" type="0xC850">
+    <Title />
+    <DisplayId>the Eggcellent Crusader</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Pharaoh" type="0xC892">
+    <Title />
+    <DisplayId>Pharaoh</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Suffix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Sphinx_Sentinel" type="0xC894">
+    <Title />
+    <DisplayId>the Sphinx Sentinel</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Anubis_Advocate" type="0xC896">
+    <Title />
+    <DisplayId>Anubis's Advocate</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Faceless_Colossus" type="0xC899">
+    <Title />
+    <DisplayId>the Faceless Colossus</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Lightning" type="0xC89C">
+    <Title />
+    <DisplayId>Lightning</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Prefix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Cultist" type="0xC89F">
+    <Title />
+    <DisplayId>Cultist</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Prefix</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Discoverer_of_the_Oasis" type="0xC8EC">
+    <Title />
+    <DisplayId>the Discoverer of the Oasis</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Sandstorm_Bringer" type="0xC8EE">
+    <Title />
+    <DisplayId>the Sandstorm Bringer</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>5</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Sunlit_Sovereign" type="0xC91F">
+    <Title />
+    <DisplayId>the Sunlit Sovereign</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Temple_Warden" type="0xC924">
+    <Title />
+    <DisplayId>the Temple Warden</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Castle_Crasher" type="0xC93A">
+    <Title />
+    <DisplayId>the Castle Crasher</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>3</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Prime_Lord" type="0xC93C">
+    <Title />
+    <DisplayId>the Prime Lord</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>5</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Mushroom_King" type="0xC965">
+    <Title />
+    <DisplayId>the Mushroom King</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Mushroom_Queen" type="0xC967">
+    <Title />
+    <DisplayId>the Mushroom Queen</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Coral_Captain" type="0xC98D">
+    <Title />
+    <DisplayId>the Coral Captain</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Tidal_Titan" type="0xC99A">
+    <Title />
+    <DisplayId>the Tidal Titan</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>5</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_The_Video_Editor" type="0xCA10">
+    <Title />
+    <DisplayId>the Video Editor</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>6</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Master_of_the_Tides" type="0xCA12">
+    <Title />
+    <DisplayId>Master of the Tides</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Guardian_of_the_Deep" type="0xCA14">
+    <Title />
+    <DisplayId>Guardian of the Deep</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Kitchen_Novice" type="0xC9FF">
+    <Title />
+    <DisplayId>Kitchen Novice</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Master_Chef" type="0xCA00">
+    <Title />
+    <DisplayId>Master Chef</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Culinary_Conqueror" type="0xCA01">
+    <Title />
+    <DisplayId>Culinary Conqueror</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Legionnaire_of_Light" type="0xCAA5">
+    <Title />
+    <DisplayId>Legionnaire of Light</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Virtuous_Conqueror" type="0xCAA7">
+    <Title />
+    <DisplayId>Virtuous Conqueror</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Defender_of_the_Realm" type="0xCACB">
+    <Title />
+    <DisplayId>Defender of the Realm</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Legionnaire_Supreme" type="0xCACC">
+    <Title />
+    <DisplayId>Legionnaire Supreme</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Warden_of_the_Night" type="0xCAEA">
+    <Title />
+    <DisplayId>Warden of the Night</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object id="Title_Specter_of_the_Shadows" type="0xCAEB">
+    <Title />
+    <DisplayId>Specter of the Shadows</DisplayId>
+    <Class>Title</Class>
+    <TitleTier>2</TitleTier>
+    <TitleType>Full</TitleType>
+    <SecretTitle />
+  </Object>
+  <Object type="0x6E29" id="the Dead">
+    <Title />
+    <Class>Title</Class>
+    <DisplayId>the Syndicate Slayer</DisplayId>
+    <TitleTier>1</TitleTier>
+    <UnlockRequirement />
+    <TitleType>Full</TitleType>
+  </Object>
+</Objects>

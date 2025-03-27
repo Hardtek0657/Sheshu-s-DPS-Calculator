@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>RotMG Toolset</title>
+    <meta name="description" content="Realm of the Mad God Toolset; DPS Calculator." />
+    <meta charset="UTF-8"/>
+    <meta name="author" content="NaN"/>
+    <meta name="publisher" content="NaN"/>
+    <meta name="robots" content="index, follow"/>
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" href="css/reset.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <style>
+        /* Modal Styles */
+        .modal {
+            display: none; /* Hidden by default */
+            position: fixed;
+            z-index: 1; /* Sit on top */
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgba(0, 0, 0, 0.4); /* Black with opacity */
+            padding-top: 60px;
+        }
+
+        /* Modal Content */
+        .modal-content {
+            background-color: #fefefe;
+            margin: 5% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            max-width: 500px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Modal Header */
+        .modal-header {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+
+        /* Modal Body */
+        .modal-body {
+            margin-bottom: 20px;
+        }
+
+        /* Modal Footer */
+        .modal-footer {
+            text-align: right;
+        }
+
+        /* Close Button */
+        .close {
+            color: #aaa;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .btn:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <script src="js/script.js"></script>
+    <script src="js/72.script.js"></script>
+    <script src="js/162.script.js"></script>
+    <script src="js/376.script.js"></script>
+    <script src="js/751.script.js"></script>
+
+    <!-- Modal HTML -->
+    <div id="issueModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="close">&times;</span>
+                <h2>Important Notice</h2>
+            </div>
+            <div class="modal-body">
+                <p>Some things on this webpage may be incorrect. No ETA on when it will be solved.</p>
+                <ul>
+                    <li>Data may not be fully updated.</li>
+                    <li>Certain stats might be inaccurate due incomplete code issues.</li>
+                    <li>Missing items in some sections.</li>
+                    <li>Issue 1: Icons not displaying for some items</li>
+                    <li>Issue 2: Lethal Strike Damage not included in calculations</li>
+                    <li>Issue 1: Some Specpen item data and math incorrect</li>
+                    <!-- Add more issues here -->
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button id="closeModal" class="btn">Okay</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Get the modal
+        var modal = document.getElementById("issueModal");
+
+        // Get the <span> element that closes the modal
+        var span = document.getElementsByClassName("close")[0];
+
+        // Get the "Okay" button
+        var closeBtn = document.getElementById("closeModal");
+
+        // Show modal after the page and scripts have loaded
+        window.onload = function() {
+            setTimeout(function() {
+                modal.style.display = "block"; // Show the modal
+            }, 500); // Add a slight delay if needed
+        };
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function() {
+            modal.style.display = "none";
+        }
+
+        // When the user clicks on the "Okay" button, close the modal
+        closeBtn.onclick = function() {
+            modal.style.display = "none";
+        }
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+    "0": [
+        { "minTier": 1, "enchantTier": 1 },
+        { "minTier": 11, "enchantTier": 2 },
+        { "minTier": 13, "enchantTier": 3 },
+        { "minTier": 14, "enchantTier": 4 }
+    ],
+    "1": [
+        { "minTier": 1, "enchantTier": 1 },
+        { "minTier": 5, "enchantTier": 2 },
+        { "minTier": 7, "enchantTier": 3 }
+    ],
+    "2": [
+        { "minTier": 1, "enchantTier": 1 },
+        { "minTier": 12, "enchantTier": 2 },
+        { "minTier": 14, "enchantTier": 3 },
+        { "minTier": 15, "enchantTier": 4 }
+    ],
+    "3": [
+        { "minTier": 1, "enchantTier": 1 },
+        { "minTier": 4, "enchantTier": 2 },
+        { "minTier": 6, "enchantTier": 3 },
+        { "minTier": 7, "enchantTier": 4 }
+    ]
+}

@@ -1,0 +1,132 @@
+@font-face {
+    font-family: ChronoType;
+    src: url(../assets/fonts/ChronoType.ttf);
+}
+
+body {
+    font-family: ChronoType;
+    color: white;
+
+    background-color: black;
+    overflow: hidden;
+}
+
+canvas {
+    position: absolute;
+    z-index: 1; 
+    
+    opacity: 0;
+    transition: opacity 1.2s;
+}
+
+#loading-container {
+    position: absolute;
+    display: flexbox;
+    left: calc(50vw - 100px);
+    top: calc(50vh - 100px);
+    width: 200px;
+    height: 100px;
+}
+
+@keyframes penguin-animation {
+    from { background-position-y: 0px; }
+    to { background-position-y: calc(-27*4*20px); }
+}
+
+#penguin {
+    width: 80px;
+    height: 80px;
+    margin-left: 60px;
+
+    background-image: url(../assets/sprites/ui/loading/penguin.png);
+    background-size: calc(4*20px) calc(27*4*20px);
+    image-rendering: pixelated;
+
+    animation: penguin-animation 3.2s infinite linear; 
+    animation-timing-function: steps(27, end);
+}
+
+@keyframes king-animation {
+    from { background-position-y: 0px; }
+    to { background-position-y: calc(-6*4*16px); }
+}
+
+#king {
+    width: 128px;
+    height: 64px;
+    margin-left: 36px;
+
+    background-image: url(../assets/sprites/ui/loading/king.png);
+    background-size: calc(4*32px) calc(6*4*16px);
+    image-rendering: pixelated;
+
+    animation: king-animation 0.8s infinite linear; 
+    animation-timing-function: steps(6, end);
+}
+
+@keyframes cube-animation {
+    from { background-position-y: 0px; }
+    to { background-position-y: calc(-8*4*16px); }
+}
+
+#cube {
+    width: 64px;
+    height: 64px;
+    margin-left: 68px;
+
+    background-image: url(../assets/sprites/ui/loading/cube.png);
+    background-size: calc(4*16px) calc(8*4*16px);
+    image-rendering: pixelated;
+
+    animation: cube-animation 0.8s infinite linear; 
+    animation-timing-function: steps(8, end);
+}
+
+@keyframes dancer-animation {
+    from { background-position-y: 0px; }
+    to { background-position-y: calc(-12*4*16px); }
+}
+
+#dancer {
+    width: 64px;
+    height: 64px;
+    margin-left: 68px;
+
+    background-image: url(../assets/sprites/ui/loading/dancer.png);
+    background-size: calc(4*16px) calc(12*4*16px);
+    image-rendering: pixelated;
+
+    animation: dancer-animation 1.6s infinite linear; 
+    animation-timing-function: steps(12, end);
+}
+
+@keyframes knight-animation {
+    from { background-position-y: 0px; }
+    to { background-position-y: calc(-2*6*8px); }
+}
+
+#knight {
+    width: 48px;
+    height: 48px;
+    margin-left: 76px;
+
+    background-image: url(../assets/sprites/ui/loading/knight.png);
+    background-size: calc(6*8px) calc(2*6*8px);
+    image-rendering: pixelated;
+
+    animation: knight-animation 0.5s infinite linear; 
+    animation-timing-function: steps(2, end);
+}
+
+#loading-container-text {
+    width: 200px;
+    height: 20px;
+    margin-top: 8px;
+
+    text-align: center;
+    font-size: 16px;
+}
+
+input {
+    transform: scale(0, 0);
+}

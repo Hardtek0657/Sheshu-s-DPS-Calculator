@@ -1,0 +1,14 @@
+{
+    "Primal Arcana": 
+    {
+        "limitShots": [3]
+    },
+    "Primal Arcana (Rehearsal)":
+    {
+        "limitShots": [3]
+    },
+    "Rage Claws":
+    {
+        "limitShots": [2, 2]
+    }
+}

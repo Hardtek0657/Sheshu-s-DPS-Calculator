@@ -1,0 +1,338 @@
+{
+    "Wizard": [
+      {
+        "id": "0x70a7",
+        "enchants": []
+      },
+      {
+        "id": "0xb41",
+        "enchants": []
+      },
+      {
+        "id": "0x70a5",
+        "enchants": []
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ],
+    "Necromancer": [
+      {
+        "id": "0x70a7",
+        "enchants": []
+      },
+      {
+        "id": "0x9dd",
+        "enchants": []
+      },
+      {
+        "id": "0x70a5",
+        "enchants": []
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ],
+    "Mystic": [
+      {
+        "id": "0x70a7",
+        "enchants": []
+      },
+      {
+        "id": "0x3a90",
+        "enchants": []
+      },
+      {
+        "id": "0x70a5",
+        "enchants": []
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ],
+    "Priest": [
+      {
+        "id": "0x183b",
+        "enchants": [
+          159
+        ]
+      },
+      {
+        "id": "0x70a3",
+        "enchants": []
+      },
+      {
+        "id": "0x70a5",
+        "enchants": []
+      },
+      {
+        "id": "0xbac",
+        "enchants": []
+      }
+    ],
+    "Sorcerer": [
+      {
+        "id": "0x183b",
+        "enchants": [
+          159
+        ]
+      },
+      {
+        "id": "0x7b9",
+        "enchants": []
+      },
+      {
+        "id": "0x70a5",
+        "enchants": []
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ],
+    "Summoner": [
+      {
+        "id": "0x183b",
+        "enchants": [
+          159
+        ]
+      },
+      {
+        "id": "0x3a80",
+        "enchants": []
+      },
+      {
+        "id": "0x70a5",
+        "enchants": []
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ],
+    "Warrior": [
+      {
+        "id": "0xcdb",
+        "enchants": [158]
+      },
+      {
+        "id": "0x3a84",
+        "enchants": []
+      },
+      {
+        "id": "0x70b7",
+        "enchants": ["0x2"]
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ],
+    "Paladin": [
+      {
+        "id": "0xcdb",
+        "enchants": [158]
+      },
+      {
+        "id": "0x4e05",
+        "enchants": []
+      },
+      {
+        "id": "0x70b7",
+        "enchants": ["0x2"]
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ],
+    "Knight": [
+      {
+        "id": "0xcdb",
+        "enchants": [158]
+      },
+      {
+        "id": "0x70b5",
+        "enchants": []
+      },
+      {
+        "id": "0x70b7",
+        "enchants": ["0x2"]
+      },
+      {
+        "id": "0xbac",
+        "enchants": []
+      }
+    ],
+    "Samurai": [
+      {
+        "id": "0x70ae",
+        "enchants": [
+          8
+        ]
+      },
+      {
+        "id": "0xc483",
+        "enchants": []
+      },
+      {
+        "id": "0x70b7",
+        "enchants": ["0x2"]
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ],
+    "Kensei": [
+      {
+        "id": "0x70ae",
+        "enchants": [
+          8
+        ]
+      },
+      {
+        "id": "0x39e0",
+        "enchants": []
+      },
+      {
+        "id": "0x70b7",
+        "enchants": ["0x2"]
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ],
+    "Ninja": [
+      {
+        "id": "0x70ae",
+        "enchants": [
+          8
+        ]
+      },
+      {
+        "id": "0x183d",
+        "enchants": []
+      },
+      {
+        "id": "0x70b0",
+        "enchants": []
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ],
+    "Rogue": [
+      {
+        "id": "0x511e",
+        "enchants": []
+      },
+      {
+        "id": "0x4b6b",
+        "enchants": []
+      },
+      {
+        "id": "0x70b0",
+        "enchants": []
+      },
+      {
+        "id": "0x70a1",
+        "enchants": []
+      }
+    ],
+    "Assassin": [
+      {
+        "id": "0x511e",
+        "enchants": []
+      },
+      {
+        "id": "0x7170",
+        "enchants": []
+      },
+      {
+        "id": "0x70b0",
+        "enchants": []
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ],
+    "Trickster": [
+      {
+        "id": "0x511e",
+        "enchants": []
+      },
+      {
+        "id": "0x709e",
+        "enchants": []
+      },
+      {
+        "id": "0x70b0",
+        "enchants": []
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ],
+    "Archer": [
+      {
+        "id": "0xcde",
+        "enchants": ["0x9B"]
+      },
+      {
+        "id": "0x24d",
+        "enchants": []
+      },
+      {
+        "id": "0x70b0",
+        "enchants": []
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ],
+    "Huntress": [
+      {
+        "id": "0xcde",
+        "enchants": ["0x9B"]
+      },
+      {
+        "id": "0xb40",
+        "enchants": []
+      },
+      {
+        "id": "0x70b0",
+        "enchants": []
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ],
+    "Bard": [
+      {
+        "id": "0xcde",
+        "enchants": ["0x9B"]
+      },
+      {
+        "id": "0x3a85",
+        "enchants": []
+      },
+      {
+        "id": "0x70a5",
+        "enchants": []
+      },
+      {
+        "id": "0x3786",
+        "enchants": []
+      }
+    ]
+  }

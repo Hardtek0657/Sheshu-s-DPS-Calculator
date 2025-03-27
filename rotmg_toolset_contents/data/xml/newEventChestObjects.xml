@@ -1,0 +1,1770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object type="0x99F" id="Void Heralds Spawner Coral Reefs">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>3</PerRealmMax>
+    <Terrain>CoralReefs</Terrain>
+  </Object>
+  <Object type="0x9A0" id="Void Heralds Spawner Dead Church">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>3</PerRealmMax>
+    <Terrain>DeadChurch</Terrain>
+  </Object>
+  <Object type="0x9A1" id="Void Heralds Spawner Ancient City">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>3</PerRealmMax>
+    <Terrain>Abandoned</Terrain>
+  </Object>
+  <Object type="0x9A2" id="Void Heralds Spawner Risen Hells">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>3</PerRealmMax>
+    <Terrain>RisenHell</Terrain>
+  </Object>
+  <Object type="0x9A3" id="Void Heralds Spawner Sprite Forest">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>3</PerRealmMax>
+    <Terrain>SpriteForest</Terrain>
+  </Object>
+  <Object type="0x9A4" id="Void Heralds Spawner Haunted Hallows">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>3</PerRealmMax>
+    <Terrain>HauntedHallows</Terrain>
+  </Object>
+  <Object type="0x9A5" id="Void Heralds Spawner Shipwreck">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>3</PerRealmMax>
+    <Terrain>ShipWreck</Terrain>
+  </Object>
+  <Object type="0x4631" id="New Sapphire Initiator">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Terrain>SpriteForest</Terrain>
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Labels>ENEMY,MINION</Labels>
+  </Object>
+  <Object type="0x4632" id="New Emerald Initiator">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Terrain>ShipWreck</Terrain>
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Labels>ENEMY,MINION</Labels>
+  </Object>
+  <Object type="0x4633" id="New Topaz Initiator">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Terrain>Abandoned</Terrain>
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Labels>ENEMY,MINION</Labels>
+  </Object>
+  <Object type="0x4634" id="New Amethyst Initiator">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Terrain>HauntedHallows</Terrain>
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Labels>ENEMY,MINION</Labels>
+  </Object>
+  <Object type="0x4635" id="New Ruby Initiator">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Terrain>RisenHell</Terrain>
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Labels>ENEMY,MINION</Labels>
+  </Object>
+  <Object type="0x4636" id="New Keyper Spawner">
+    <DisplayId>The Keyper</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Terrain>Abandoned</Terrain>
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+  </Object>
+  <Object type="0x4637" id="New The Appetizer Spawner">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Terrain>Abandoned</Terrain>
+  </Object>
+  <Object type="0xca7b" id="New Mercenary Initiator">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <PerRealmMax>1</PerRealmMax>
+  </Object>
+  <Object type="0xca7c" id="New Merc A Spawner 1">
+    <DisplayId>Vindication Announcer</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Terrain>MidDesert</Terrain>
+  </Object>
+  <Object type="0xca7d" id="New Merc A Spawner 2">
+    <DisplayId>Vindication Announcer</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Terrain>Plains</Terrain>
+  </Object>
+  <Object type="0xca7e" id="New Merc B Spawner 1">
+    <DisplayId>Vindication Announcer</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Terrain>HigherForest</Terrain>
+  </Object>
+  <Object type="0xca7f" id="New Merc B Spawner 2">
+    <DisplayId>Vindication Announcer</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Terrain>HigherPlains</Terrain>
+  </Object>
+  <Object type="0xcaae" id="New Merc C Spawner 1">
+    <DisplayId>Vindication Announcer</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Terrain>Abandoned</Terrain>
+  </Object>
+  <Object type="0xcaaf" id="New Merc C Spawner 2">
+    <DisplayId>Vindication Announcer</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Terrain>DeadChurch</Terrain>
+  </Object>
+  <Object type="0xcab0" id="New Merc C Spawner 3">
+    <DisplayId>Vindication Announcer</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Terrain>HauntedHallows</Terrain>
+  </Object>
+  <Object type="0xcab1" id="New Merc D Spawner 1">
+    <DisplayId>Vindication Announcer</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Terrain>DeepSea</Terrain>
+  </Object>
+  <Object type="0xcab2" id="New Merc D Spawner 2">
+    <DisplayId>Vindication Announcer</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Terrain>RunicTundra</Terrain>
+  </Object>
+  <Object type="0xcab3" id="New Merc D Spawner 3">
+    <DisplayId>Vindication Announcer</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Terrain>SanguineForest</Terrain>
+  </Object>
+  <Object type="0xcab5" id="Vindication Parcel">
+    <DisplayId>Unsigned Parcel</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>d2LofiObjEmbed</File>
+      <Index>1177</Index>
+    </Texture>
+    <HitSound>monster/default_hit</HitSound>
+    <DeathSound>monster/default_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>800</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>30</Exp>
+    <BXP>142</BXP>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+  <Object type="0xcab6" id="New Mercenary Minion Spawner">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+  </Object>
+  <Object type="0xcac8" id="Interregnum Spawner 1">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Terrain>HauntedHallows</Terrain>
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+  </Object>
+  <Object type="0xcaca" id="Interregnum Spawner 2">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <SpawnProb>1</SpawnProb>
+    <PerRealmMax>1</PerRealmMax>
+    <Terrain>ShipWreck</Terrain>
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+  </Object>
+  <Object type="0xcac9" id="Interregnum Initiator">
+    <DisplayId>Vindication Announcer</DisplayId>
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+  </Object>
+  <Object type="0xcb13" id="New Zombie Horde Initiator">
+    <Class>GameObject</Class>
+    <Enemy />
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+  </Object>
+  <Object type="0xcb12" id="New Zombie Horde Spawner 1">
+    <Class>GameObject</Class>
+    <SpawnProb>1</SpawnProb>
+    <Enemy />
+    <PerRealmMax>1</PerRealmMax>
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Terrain>HauntedHallows</Terrain>
+  </Object>
+  <Object type="0xcb14" id="New Zombie Horde Spawner 2">
+    <Class>GameObject</Class>
+    <SpawnProb>1</SpawnProb>
+    <Enemy />
+    <PerRealmMax>1</PerRealmMax>
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Terrain>HauntedHallows</Terrain>
+  </Object>
+  <Object type="0xcb15" id="New Zombie Horde Spawner 3">
+    <Class>GameObject</Class>
+    <SpawnProb>1</SpawnProb>
+    <Enemy />
+    <PerRealmMax>1</PerRealmMax>
+    <Invincible />
+    <Texture>
+      <File>invisible</File>
+      <Index>0</Index>
+    </Texture>
+    <Size>0</Size>
+    <ShadowSize>0</ShadowSize>
+    <NoMiniMap />
+    <Terrain>HauntedHallows</Terrain>
+  </Object>
+  <Object type="0xcb16" id="Halloween Candy Dungeon">
+    <DisplayId>Halloween Candy</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>lofiObj</File>
+      <Index>696</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>696</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>697</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>698</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>699</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>700</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>701</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>700</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>699</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>698</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>697</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>800</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>200</Exp>
+    <BXP>1000</BXP>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK,CANDY</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+  <Object type="0xcb17" id="Halloween Candy Abandoned City">
+    <DisplayId>Halloween Candy</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>lofiObj</File>
+      <Index>690</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>690</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>691</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>692</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>693</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>694</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>695</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>694</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>693</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>692</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>691</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>800</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>200</Exp>
+    <BXP>1000</BXP>
+    <SpawnProb>1.0</SpawnProb>
+    <Terrain>Abandoned</Terrain>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK,CANDY</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+  <Object type="0xcb18" id="Halloween Candy Coral Reefs">
+    <DisplayId>Halloween Candy</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>lofiObj</File>
+      <Index>696</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>696</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>697</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>698</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>699</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>700</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>701</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>700</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>699</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>698</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>697</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>800</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>200</Exp>
+    <BXP>1000</BXP>
+    <SpawnProb>1.0</SpawnProb>
+    <Terrain>CoralReefs</Terrain>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK,CANDY</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+  <Object type="0xcb19" id="Halloween Candy Dead Church">
+    <DisplayId>Halloween Candy</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>lofiObj</File>
+      <Index>702</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>702</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>703</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>704</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>705</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>706</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>707</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>706</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>705</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>704</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>703</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>800</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>200</Exp>
+    <BXP>1000</BXP>
+    <SpawnProb>1.0</SpawnProb>
+    <Terrain>DeadChurch</Terrain>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK,CANDY</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+  <Object type="0xcb1a" id="Halloween Candy Haunted Hallows">
+    <DisplayId>Halloween Candy</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>lofiObj</File>
+      <Index>708</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>708</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>709</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>710</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>711</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>712</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>713</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>712</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>711</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>710</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>709</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>800</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>200</Exp>
+    <BXP>1000</BXP>
+    <SpawnProb>1.0</SpawnProb>
+    <Terrain>HauntedHallows</Terrain>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK,CANDY</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+  <Object type="0xcb1b" id="Halloween Candy Risen Hell">
+    <DisplayId>Halloween Candy</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>lofiObj</File>
+      <Index>714</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>714</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>715</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>716</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>717</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>718</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>719</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>718</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>717</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>716</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>715</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>800</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>200</Exp>
+    <BXP>1000</BXP>
+    <SpawnProb>1.0</SpawnProb>
+    <Terrain>RisenHell</Terrain>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK,CANDY</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+  <Object type="0xcb1c" id="Halloween Candy Shipwreck Cove">
+    <DisplayId>Halloween Candy</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>lofiObj</File>
+      <Index>720</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>720</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>721</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>722</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>723</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>724</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>725</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>724</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>723</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>722</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>721</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>800</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>200</Exp>
+    <BXP>1000</BXP>
+    <SpawnProb>1.0</SpawnProb>
+    <Terrain>ShipWreck</Terrain>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK,CANDY</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+  <Object type="0xcb1d" id="Halloween Candy Sprite Forest">
+    <DisplayId>Halloween Candy</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>lofiObj</File>
+      <Index>726</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>726</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>727</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>728</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>729</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>730</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>731</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>730</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>729</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>728</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>727</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>800</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>200</Exp>
+    <BXP>1000</BXP>
+    <SpawnProb>1.0</SpawnProb>
+    <Terrain>SpriteForest</Terrain>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK,CANDY</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+  <Object type="0xcb1e" id="Halloween Candy Carboniferous">
+    <DisplayId>Halloween Candy</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>lofiObj</File>
+      <Index>732</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>732</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>733</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>734</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>735</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>736</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>737</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>736</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>735</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>734</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>733</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>1600</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>400</Exp>
+    <BXP>2000</BXP>
+    <SpawnProb>1.0</SpawnProb>
+    <Terrain>Carboniferous</Terrain>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK,CANDY</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+  <Object type="0xcb1f" id="Halloween Candy Deep Sea Abyss">
+    <DisplayId>Halloween Candy</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>lofiObj</File>
+      <Index>738</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>738</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>739</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>740</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>741</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>742</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>743</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>742</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>741</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>740</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>739</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>1600</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>400</Exp>
+    <BXP>2000</BXP>
+    <SpawnProb>1.0</SpawnProb>
+    <Terrain>DeepSea</Terrain>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK,CANDY</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+  <Object type="0xcb20" id="Halloween Candy Floral Escape">
+    <DisplayId>Halloween Candy</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>lofiObj</File>
+      <Index>744</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>744</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>745</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>746</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>747</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>748</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>749</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>748</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>747</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>746</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>745</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>1600</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>400</Exp>
+    <BXP>2000</BXP>
+    <SpawnProb>1.0</SpawnProb>
+    <Terrain>FloralEscape</Terrain>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK,CANDY</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+  <Object type="0xcb21" id="Halloween Candy Runic Tundra">
+    <DisplayId>Halloween Candy</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>lofiObj</File>
+      <Index>750</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>750</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>751</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>752</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>753</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>754</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>755</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>754</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>753</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>752</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>751</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>1600</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>400</Exp>
+    <BXP>2000</BXP>
+    <SpawnProb>1.0</SpawnProb>
+    <Terrain>RunicTundra</Terrain>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK,CANDY</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+  <Object type="0xcb22" id="Halloween Candy Sanguine Forest">
+    <DisplayId>Halloween Candy</DisplayId>
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>lofiObj</File>
+      <Index>756</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>756</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>757</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>758</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>759</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>760</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>761</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>760</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>759</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>758</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>lofiObj</File>
+          <Index>757</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>1600</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>400</Exp>
+    <BXP>2000</BXP>
+    <SpawnProb>1.0</SpawnProb>
+    <Terrain>SanguineForest</Terrain>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK,CANDY</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+  <Object type="0xcb2b" id="Halloween Candy Bag">
+    <Enemy />
+    <Class>Character</Class>
+    <Texture>
+      <File>RookieObj_16x20</File>
+      <Index>12</Index>
+    </Texture>
+    <Animation prob="1.0">
+      <Frame time="0.15">
+        <Texture>
+          <File>RookieObj_16x20</File>
+          <Index>13</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>RookieObj_16x20</File>
+          <Index>14</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>RookieObj_16x20</File>
+          <Index>15</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>RookieObj_16x20</File>
+          <Index>16</Index>
+        </Texture>
+      </Frame>
+      <Frame time="0.15">
+        <Texture>
+          <File>RookieObj_16x20</File>
+          <Index>17</Index>
+        </Texture>
+      </Frame>
+    </Animation>
+    <HitSound>monster/cubes_hit</HitSound>
+    <DeathSound>monster/cubes_death</DeathSound>
+    <Size>90</Size>
+    <ShadowSize>90</ShadowSize>
+    <MaxHitPoints>2000</MaxHitPoints>
+    <Defense>0</Defense>
+    <Exp>400</Exp>
+    <BXP>2000</BXP>
+    <StasisImmune />
+    <KillStat stat="StructureKills" />
+    <Labels>ENEMY,MINION,STASISIMMUNE,MINION_WEAK,CANDY</Labels>
+    <SpecialSpawn category="Heroic_Orb_Weak">Heroic Orb</SpecialSpawn>
+    <SpecialSpawn category="Defense_Orb">Orb of Defense</SpecialSpawn>
+    <SpecialSpawn category="Frenzy_Orb">Orb of Frenzy</SpecialSpawn>
+    <SpecialSpawn category="Damage_Orb">Orb of Damage</SpecialSpawn>
+    <SpecialSpawn category="Range_Orb">Orb of Range</SpecialSpawn>
+    <SpecialSpawn category="Speed_Orb">Orb of Speed</SpecialSpawn>
+    <SpecialSpawn category="Swarm_Spider_Low_Spawner">Swarm Spider Low Spawner</SpecialSpawn>
+  </Object>
+</Objects>

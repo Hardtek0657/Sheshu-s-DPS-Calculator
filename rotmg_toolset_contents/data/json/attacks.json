@@ -1,0 +1,383 @@
+{
+    "Buzzing Bullets Subattack Item": {
+        "0": {
+            "projectile": {
+                "minDamage": 80,
+                "maxDamage": 80,
+                "ignoreDefense": true
+            },
+            "projectileCount": 1,
+            "burstMaxCount": 4,
+            "burstMinDelay": 0.8,
+            "burstMaxDelay": 1.8,
+            "rateOfFire": 1.0
+        },
+        "1": {
+            "projectile": {
+                "minDamage": 80,
+                "maxDamage": 80,
+                "ignoreDefense": true
+            },
+            "projectileCount": 1,
+            "burstMaxCount": 4,
+            "burstMinDelay": 0.8,
+            "burstMaxDelay": 1.8,
+            "rateOfFire": 1.0
+        },
+        "2": {
+            "projectile": {
+                "minDamage": 80,
+                "maxDamage": 80,
+                "ignoreDefense": true
+            },
+            "projectileCount": 1,
+            "burstMaxCount": 4,
+            "burstMinDelay": 0.8,
+            "burstMaxDelay": 1.8,
+            "rateOfFire": 1.0
+        },
+        "3": {
+            "projectile": {
+                "minDamage": 80,
+                "maxDamage": 80,
+                "ignoreDefense": true
+            },
+            "projectileCount": 1,
+            "burstMaxCount": 4,
+            "burstMinDelay": 0.8,
+            "burstMaxDelay": 1.8,
+            "rateOfFire": 1.0
+        },
+        "4": {
+            "projectile": {
+                "minDamage": 80,
+                "maxDamage": 80,
+                "ignoreDefense": true
+            },
+            "projectileCount": 1,
+            "burstMaxCount": 4,
+            "burstMinDelay": 0.8,
+            "burstMaxDelay": 1.8,
+            "rateOfFire": 1.0
+        },
+        "5": {
+            "projectile": {
+                "minDamage": 80,
+                "maxDamage": 80,
+                "ignoreDefense": true
+            },
+            "projectileCount": 1,
+            "burstMaxCount": 4,
+            "burstMinDelay": 0.8,
+            "burstMaxDelay": 1.8,
+            "rateOfFire": 1.0
+        }
+    },
+    "MotMG 2023 Subattack Item": {
+        "0": {
+            "projectile": {
+                "minDamage": 20,
+                "maxDamage": 40,
+                "ignoreDefense": true
+            },
+            "projectileCount": 2,
+            "rateOfFire": 1.0
+        },
+        "1": {
+            "projectile": {
+                "minDamage": 300,
+                "maxDamage": 400
+            },
+            "projectileCount": 1,
+            "rateOfFire": 0.33
+        },
+        "2": {
+            "projectile": {
+                "minDamage": 100,
+                "maxDamage": 165
+            },
+            "projectileCount": 2,
+            "rateOfFire": 0.7
+        },
+        "3": {
+            "projectile": {
+                "minDamage": 170,
+                "maxDamage": 215
+            },
+            "projectileCount": 1,
+            "rateOfFire": 1.0
+        },
+        "4": {
+            "projectile": {
+                "minDamage": 50,
+                "maxDamage": 75
+            },
+            "projectileCount": 2,
+            "rateOfFire": 1.0
+        },
+        "5": {
+            "projectile": {
+                "minDamage": 70,
+                "maxDamage": 75
+            },
+            "projectileCount": 1,
+            "rateOfFire": 1.0
+        },
+        "6": {
+            "projectile": {
+                "minDamage": 130,
+                "maxDamage": 160
+            },
+            "projectileCount": 2,
+            "rateOfFire": 1.0
+        },
+        "7": {
+            "projectile": {
+                "minDamage": 350,
+                "maxDamage": 400
+            },
+            "projectileCount": 1,
+            "rateOfFire": 0.7
+        },
+        "8": {
+            "projectile": {
+                "minDamage": 140,
+                "maxDamage": 190
+            },
+            "projectileCount": 2,
+            "rateOfFire": 0.9
+        },
+        "9": {
+            "projectile": {
+                "minDamage": 160,
+                "maxDamage": 170
+            },
+            "projectileCount": 1,
+            "rateOfFire": 1.75
+        }
+    },
+    "MotMG 2023 Subattack Item 2": {
+        "0": {
+            "projectile": {
+                "minDamage": 0,
+                "maxDamage": 0
+            },
+            "projectileCount": 0,
+            "rateOfFire": 0.0
+        },
+        "1": {
+            "projectile": {
+                "minDamage": 100,
+                "maxDamage": 135
+            },
+            "projectileCount": 1,
+            "rateOfFire": 0.75
+        },
+        "2": {
+            "projectile": {
+                "minDamage": 100,
+                "maxDamage": 175
+            },
+            "projectileCount": 1,
+            "rateOfFire": 0.75
+        },
+        "3": {
+            "projectile": {
+                "minDamage": 180,
+                "maxDamage": 260
+            },
+            "projectileCount": 1,
+            "rateOfFire": 0.8
+        },
+        "4": {
+            "projectile": {
+                "minDamage": 110,
+                "maxDamage": 150
+            },
+            "projectileCount": 1,
+            "rateOfFire": 0.5
+        },
+        "5": {
+            "projectile": {
+                "minDamage": 80,
+                "maxDamage": 110
+            },
+            "projectileCount": 1,
+            "rateOfFire": 1.2
+        },
+        "6": {
+            "projectile": {
+                "minDamage": 80,
+                "maxDamage": 110
+            },
+            "projectileCount": 1,
+            "rateOfFire": 0.6
+        },
+        "7": {
+            "projectile": {
+                "minDamage": 80,
+                "maxDamage": 110
+            },
+            "projectileCount": 1,
+            "rateOfFire": 0.6
+        },
+        "8": {
+            "projectile": {
+                "minDamage": 80,
+                "maxDamage": 120
+            },
+            "projectileCount": 1,
+            "rateOfFire": 0.9
+        },
+        "9": {
+            "projectile": {
+                "minDamage": 80,
+                "maxDamage": 120
+            },
+            "projectileCount": 1,
+            "rateOfFire": 0.9
+        },
+        "10": {
+            "projectile": {
+                "minDamage": 175,
+                "maxDamage": 215
+            },
+            "projectileCount": 1,
+            "rateOfFire": 0.8
+        },
+        "11": {
+            "projectile": {
+                "minDamage": 60,
+                "maxDamage": 110
+            },
+            "projectileCount": 3,
+            "rateOfFire": 0.7
+        },
+        "12": {
+            "projectile": {
+                "minDamage": 90,
+                "maxDamage": 115
+            },
+            "projectileCount": 1,
+            "rateOfFire": 1.75
+        }
+    },
+    "MotMG 2023 Subattack Item 3": {
+        "0": {
+            "projectile": {
+                "minDamage": 30,
+                "maxDamage": 45,
+                "ignoreDefense": true
+            },
+            "projectileCount": 2,
+            "rateOfFire": 1.0
+        },
+        "1": {
+            "projectile": {
+                "minDamage": 120,
+                "maxDamage": 150
+            },
+            "projectileCount": 1,
+            "rateOfFire": 1.0
+        },
+        "2": {
+            "projectile": {
+                "minDamage": 40,
+                "maxDamage": 60
+            },
+            "projectileCount": 2,
+            "rateOfFire": 0.8
+        },
+        "3": {
+            "projectile": {
+                "minDamage": 200,
+                "maxDamage": 420
+            },
+            "projectileCount": 1,
+            "rateOfFire": 0.4
+        },
+        "4": {
+            "projectile": {
+                "minDamage": 20,
+                "maxDamage": 30,
+                "ignoreDefense": true
+            },
+            "projectileCount": 4,
+            "rateOfFire": 1.0
+        },
+        "5": {
+            "projectile": {
+                "minDamage": 100,
+                "maxDamage": 190
+            },
+            "projectileCount": 1,
+            "rateOfFire": 1.0
+        },
+        "6": {
+            "projectile": {
+                "minDamage": 20,
+                "maxDamage": 30,
+                "ignoreDefense": true
+            },
+            "projectileCount": 2,
+            "rateOfFire": 1.5
+        },
+        "7": {
+            "projectile": {
+                "minDamage": 80,
+                "maxDamage": 110
+            },
+            "projectileCount": 1,
+            "rateOfFire": 1.5
+        },
+        "8": {
+            "projectile": {
+                "minDamage": 85,
+                "maxDamage": 135
+            },
+            "projectileCount": 2,
+            "rateOfFire": 0.5
+        },
+        "9": {
+            "projectile": {
+                "minDamage": 70,
+                "maxDamage": 110,
+                "ignoreDefense": true
+            },
+            "projectileCount": 1,
+            "rateOfFire": 1
+        },
+        "10": {
+            "projectile": {
+                "minDamage": 235,
+                "maxDamage": 300
+            },
+            "projectileCount": 1,
+            "rateOfFire": 0.7
+        },
+        "11": {
+            "projectile": {
+                "minDamage": 130,
+                "maxDamage": 165
+            },
+            "projectileCount": 2,
+            "rateOfFire": 0.7
+        },
+        "12": {
+            "projectile": {
+                "minDamage": 80,
+                "maxDamage": 100
+            },
+            "projectileCount": 1,
+            "rateOfFire": 1.15
+        },
+        "13": {
+            "projectile": {
+                "minDamage": 80,
+                "maxDamage": 100
+            },
+            "projectileCount": 1,
+            "rateOfFire": 1.15
+        }
+    }
+}

@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object type="0x3aaa" id="Voodoo Gravestone Unlocker 1">
+    <Class>Equipment</Class>
+    <DisplayId>Level 1 Voodoo Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>0xD2</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Voodoo Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15039">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x3aab" id="Voodoo Gravestone Unlocker 2">
+    <Class>Equipment</Class>
+    <DisplayId>Level 2-19 Voodoo Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>0xD3</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Voodoo Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15040">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x3aac" id="Voodoo Gravestone Unlocker 3">
+    <Class>Equipment</Class>
+    <DisplayId>Level 20 Voodoo Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>0xD4</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Voodoo Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15041">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x3aad" id="Voodoo Gravestone Unlocker 4">
+    <Class>Equipment</Class>
+    <DisplayId>1/8 Voodoo Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>0xD5</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Voodoo Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15042">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x3aae" id="Voodoo Gravestone Unlocker 5">
+    <Class>Equipment</Class>
+    <DisplayId>2/8 Voodoo Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>0x4E</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Voodoo Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15043">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x3aaf" id="Voodoo Gravestone Unlocker 6">
+    <Class>Equipment</Class>
+    <DisplayId>3/8 Voodoo Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>0x4F</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Voodoo Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15044">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x3aba" id="Voodoo Gravestone Unlocker 7">
+    <Class>Equipment</Class>
+    <DisplayId>4/8 Voodoo Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>0x50</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Voodoo Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15045">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x3abb" id="Voodoo Gravestone Unlocker 8">
+    <Class>Equipment</Class>
+    <DisplayId>5/8 Voodoo Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>0x51</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Voodoo Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15046">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x3abc" id="Voodoo Gravestone Unlocker 9">
+    <Class>Equipment</Class>
+    <DisplayId>6/8 Voodoo Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>0x52</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Voodoo Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15047">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x3abd" id="Voodoo Gravestone Unlocker 10">
+    <Class>Equipment</Class>
+    <DisplayId>7/8 Voodoo Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>0x53</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Voodoo Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15048">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x3abe" id="Voodoo Gravestone Unlocker 11">
+    <Class>Equipment</Class>
+    <DisplayId>8/8 Voodoo Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>0x54</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Voodoo Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15049">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0xc29a" id="Rosy Gravestone Unlocker 1">
+    <Class>Equipment</Class>
+    <DisplayId>Level 1 Rosy Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>202</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Rosy Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15050">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0xc29b" id="Rosy Gravestone Unlocker 2">
+    <Class>Equipment</Class>
+    <DisplayId>Level 2-19 Rosy Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>203</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Rosy Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15051">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0xc29c" id="Rosy Gravestone Unlocker 3">
+    <Class>Equipment</Class>
+    <DisplayId>Level 20 Rosy Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>204</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Rosy Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15052">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0xc29d" id="Rosy Gravestone Unlocker 4">
+    <Class>Equipment</Class>
+    <DisplayId>1/8 Rosy Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>205</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Rosy Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15053">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0xc29e" id="Rosy Gravestone Unlocker 5">
+    <Class>Equipment</Class>
+    <DisplayId>2/8 Rosy Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>17</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Rosy Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15054">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0xc29f" id="Rosy Gravestone Unlocker 6">
+    <Class>Equipment</Class>
+    <DisplayId>3/8 Rosy Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>18</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Rosy Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15055">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0xc300" id="Rosy Gravestone Unlocker 7">
+    <Class>Equipment</Class>
+    <DisplayId>4/8 Rosy Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>19</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Rosy Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15056">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0xc301" id="Rosy Gravestone Unlocker 8">
+    <Class>Equipment</Class>
+    <DisplayId>5/8 Rosy Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>20</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Rosy Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15057">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0xc302" id="Rosy Gravestone Unlocker 9">
+    <Class>Equipment</Class>
+    <DisplayId>6/8 Rosy Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>21</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Rosy Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15058">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0xc303" id="Rosy Gravestone Unlocker 10">
+    <Class>Equipment</Class>
+    <DisplayId>7/8 Rosy Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>22</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Rosy Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15059">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0xc304" id="Rosy Gravestone Unlocker 11">
+    <Class>Equipment</Class>
+    <DisplayId>8/8 Rosy Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>23</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Rosy Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15060">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x184c" id="Steampunk Gravestone Unlocker 1">
+    <Class>Equipment</Class>
+    <DisplayId>Level 1 Steampunk Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>214</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Steampunk Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="6231">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x184d" id="Steampunk Gravestone Unlocker 2">
+    <Class>Equipment</Class>
+    <DisplayId>Level 2-19 Steampunk Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>215</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Steampunk Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="6232">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x184e" id="Steampunk Gravestone Unlocker 3">
+    <Class>Equipment</Class>
+    <DisplayId>Level 20 Steampunk Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>216</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Steampunk Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="6233">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x184f" id="Steampunk Gravestone Unlocker 4">
+    <Class>Equipment</Class>
+    <DisplayId>1/8 Steampunk Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>217</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Steampunk Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="6234">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x1850" id="Steampunk Gravestone Unlocker 5">
+    <Class>Equipment</Class>
+    <DisplayId>2/8 Steampunk Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>1</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Steampunk Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="6235">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x1851" id="Steampunk Gravestone Unlocker 6">
+    <Class>Equipment</Class>
+    <DisplayId>3/8 Steampunk Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>2</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Steampunk Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="6236">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x1852" id="Steampunk Gravestone Unlocker 7">
+    <Class>Equipment</Class>
+    <DisplayId>4/8 Steampunk Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>3</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Steampunk Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="6237">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x1853" id="Steampunk Gravestone Unlocker 8">
+    <Class>Equipment</Class>
+    <DisplayId>5/8 Steampunk Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>4</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Steampunk Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="6238">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x1854" id="Steampunk Gravestone Unlocker 9">
+    <Class>Equipment</Class>
+    <DisplayId>6/8 Steampunk Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>5</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Steampunk Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="6239">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x1855" id="Steampunk Gravestone Unlocker 10">
+    <Class>Equipment</Class>
+    <DisplayId>7/8 Steampunk Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>6</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Steampunk Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="6240">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x1856" id="Steampunk Gravestone Unlocker 11">
+    <Class>Equipment</Class>
+    <DisplayId>8/8 Steampunk Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>7</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Steampunk Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="6241">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x925f" id="Arabian Nights Castle Gravestone Unlocker 1">
+    <Class>Equipment</Class>
+    <DisplayId>Level 1 Arabian Nights Castle Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>218</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Arabian Nights Castle Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15061">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9260" id="Arabian Nights Castle Gravestone Unlocker 2">
+    <Class>Equipment</Class>
+    <DisplayId>Level 2-19 Arabian Nights Castle Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>219</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Arabian Nights Castle Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15062">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9261" id="Arabian Nights Castle Gravestone Unlocker 3">
+    <Class>Equipment</Class>
+    <DisplayId>Level 20 Arabian Nights Castle Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>220</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Arabian Nights Castle Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15063">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9262" id="Arabian Nights Castle Gravestone Unlocker 4">
+    <Class>Equipment</Class>
+    <DisplayId>1/8 Arabian Nights Castle Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>221</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Arabian Nights Castle Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15064">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9263" id="Arabian Nights Castle Gravestone Unlocker 5">
+    <Class>Equipment</Class>
+    <DisplayId>2/8 Arabian Nights Castle Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>85</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Arabian Nights Castle Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15065">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9264" id="Arabian Nights Castle Gravestone Unlocker 6">
+    <Class>Equipment</Class>
+    <DisplayId>3/8 Arabian Nights Castle Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>86</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Arabian Nights Castle Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15066">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9265" id="Arabian Nights Castle Gravestone Unlocker 7">
+    <Class>Equipment</Class>
+    <DisplayId>4/8 Arabian Nights Castle Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>87</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Arabian Nights Castle Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15067">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9266" id="Arabian Nights Castle Gravestone Unlocker 8">
+    <Class>Equipment</Class>
+    <DisplayId>5/8 Arabian Nights Castle Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>88</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Arabian Nights Castle Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15068">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9267" id="Arabian Nights Castle Gravestone Unlocker 9">
+    <Class>Equipment</Class>
+    <DisplayId>6/8 Arabian Nights Castle Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>89</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Arabian Nights Castle Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15069">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9268" id="Arabian Nights Castle Gravestone Unlocker 10">
+    <Class>Equipment</Class>
+    <DisplayId>7/8 Arabian Nights Castle Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>90</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Arabian Nights Castle Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15070">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9269" id="Arabian Nights Castle Gravestone Unlocker 11">
+    <Class>Equipment</Class>
+    <DisplayId>8/8 Arabian Nights Castle Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>91</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Arabian Nights Castle Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="15071">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x926a" id="Frozen in Time Gravestone Unlocker 1">
+    <Class>Equipment</Class>
+    <DisplayId>Level 1 Frozen in Time Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>222</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Frozen in Time Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21194">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x926b" id="Frozen in Time Gravestone Unlocker 2">
+    <Class>Equipment</Class>
+    <DisplayId>Level 2-19 Frozen in Time Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>223</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Frozen in Time Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21195">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x926c" id="Frozen in Time Gravestone Unlocker 3">
+    <Class>Equipment</Class>
+    <DisplayId>Level 20 Frozen in Time Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>224</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Frozen in Time Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21196">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x926d" id="Frozen in Time Gravestone Unlocker 4">
+    <Class>Equipment</Class>
+    <DisplayId>1/8 Frozen in Time Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>225</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Frozen in Time Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21197">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x926e" id="Frozen in Time Gravestone Unlocker 5">
+    <Class>Equipment</Class>
+    <DisplayId>2/8 Frozen in Time Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>92</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Frozen in Time Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21198">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x926f" id="Frozen in Time Gravestone Unlocker 6">
+    <Class>Equipment</Class>
+    <DisplayId>3/8 Frozen in Time Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>93</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Frozen in Time Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21199">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9270" id="Frozen in Time Gravestone Unlocker 7">
+    <Class>Equipment</Class>
+    <DisplayId>4/8 Frozen in Time Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>94</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Frozen in Time Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21200">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9271" id="Frozen in Time Gravestone Unlocker 8">
+    <Class>Equipment</Class>
+    <DisplayId>5/8 Frozen in Time Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>95</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Frozen in Time Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21201">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9272" id="Frozen in Time Gravestone Unlocker 9">
+    <Class>Equipment</Class>
+    <DisplayId>6/8 Frozen in Time Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>96</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Frozen in Time Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21202">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9273" id="Frozen in Time Gravestone Unlocker 10">
+    <Class>Equipment</Class>
+    <DisplayId>7/8 Frozen in Time Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>97</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Frozen in Time Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21203">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9274" id="Frozen in Time Gravestone Unlocker 11">
+    <Class>Equipment</Class>
+    <DisplayId>8/8 Frozen in Time Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>98</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Frozen in Time Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21204">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9275" id="Beckoned by the Abyss Gravestone Unlocker 1">
+    <Class>Equipment</Class>
+    <DisplayId>Level 1 Beckoned by the Abyss Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>226</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Beckoned by the Abyss Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21436">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9276" id="Beckoned by the Abyss Gravestone Unlocker 2">
+    <Class>Equipment</Class>
+    <DisplayId>Level 2-19 Beckoned by the Abyss Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>227</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Beckoned by the Abyss Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21437">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9277" id="Beckoned by the Abyss Gravestone Unlocker 3">
+    <Class>Equipment</Class>
+    <DisplayId>Level 20 Beckoned by the Abyss Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>228</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Beckoned by the Abyss Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21438">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9278" id="Beckoned by the Abyss Gravestone Unlocker 4">
+    <Class>Equipment</Class>
+    <DisplayId>1/8 Beckoned by the Abyss Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>229</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Beckoned by the Abyss Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21439">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9279" id="Beckoned by the Abyss Gravestone Unlocker 5">
+    <Class>Equipment</Class>
+    <DisplayId>2/8 Beckoned by the Abyss Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>99</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Beckoned by the Abyss Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21440">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x927a" id="Beckoned by the Abyss Gravestone Unlocker 6">
+    <Class>Equipment</Class>
+    <DisplayId>3/8 Beckoned by the Abyss Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>100</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Beckoned by the Abyss Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21441">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x927b" id="Beckoned by the Abyss Gravestone Unlocker 7">
+    <Class>Equipment</Class>
+    <DisplayId>4/8 Beckoned by the Abyss Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>101</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Beckoned by the Abyss Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21442">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x927c" id="Beckoned by the Abyss Gravestone Unlocker 8">
+    <Class>Equipment</Class>
+    <DisplayId>5/8 Beckoned by the Abyss Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>102</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Beckoned by the Abyss Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21443">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x927d" id="Beckoned by the Abyss Gravestone Unlocker 9">
+    <Class>Equipment</Class>
+    <DisplayId>6/8 Beckoned by the Abyss Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>103</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Beckoned by the Abyss Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21444">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x927e" id="Beckoned by the Abyss Gravestone Unlocker 10">
+    <Class>Equipment</Class>
+    <DisplayId>7/8 Beckoned by the Abyss Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>104</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Beckoned by the Abyss Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21445">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x927f" id="Beckoned by the Abyss Gravestone Unlocker 11">
+    <Class>Equipment</Class>
+    <DisplayId>8/8 Beckoned by the Abyss Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>105</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Beckoned by the Abyss Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21446">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9280" id="Advanced Nest Gravestone Unlocker 1">
+    <Class>Equipment</Class>
+    <DisplayId>Level 1 Advanced Nest Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>230</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Advanced Nest Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21447">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9281" id="Advanced Nest Gravestone Unlocker 2">
+    <Class>Equipment</Class>
+    <DisplayId>Level 2-19 Advanced Nest Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>231</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Advanced Nest Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21448">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9282" id="Advanced Nest Gravestone Unlocker 3">
+    <Class>Equipment</Class>
+    <DisplayId>Level 20 Advanced Nest Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>232</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Advanced Nest Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21449">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9283" id="Advanced Nest Gravestone Unlocker 4">
+    <Class>Equipment</Class>
+    <DisplayId>1/8 Advanced Nest Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>233</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Advanced Nest Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21450">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9284" id="Advanced Nest Gravestone Unlocker 5">
+    <Class>Equipment</Class>
+    <DisplayId>2/8 Advanced Nest Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>106</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Advanced Nest Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21451">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9285" id="Advanced Nest Gravestone Unlocker 6">
+    <Class>Equipment</Class>
+    <DisplayId>3/8 Advanced Nest Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>107</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Advanced Nest Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21452">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9286" id="Advanced Nest Gravestone Unlocker 7">
+    <Class>Equipment</Class>
+    <DisplayId>4/8 Advanced Nest Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>108</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Advanced Nest Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21453">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9287" id="Advanced Nest Gravestone Unlocker 8">
+    <Class>Equipment</Class>
+    <DisplayId>5/8 Advanced Nest Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>109</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Advanced Nest Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21454">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9288" id="Advanced Nest Gravestone Unlocker 9">
+    <Class>Equipment</Class>
+    <DisplayId>6/8 Advanced Nest Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>110</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Advanced Nest Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21455">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9289" id="Advanced Nest Gravestone Unlocker 10">
+    <Class>Equipment</Class>
+    <DisplayId>7/8 Advanced Nest Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>111</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Advanced Nest Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21456">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x928A" id="Advanced Nest Gravestone Unlocker 11">
+    <Class>Equipment</Class>
+    <DisplayId>8/8 Advanced Nest Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>112</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Advanced Nest Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21457">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x92FB" id="Crypt Keeper Gravestone Unlocker 1">
+    <Class>Equipment</Class>
+    <DisplayId>Level 1 Crypt Keeper Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>234</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Crypt Keeper Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21458">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x92FC" id="Crypt Keeper Gravestone Unlocker 2">
+    <Class>Equipment</Class>
+    <DisplayId>Level 2-19 Crypt Keeper Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>235</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Crypt Keeper Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21459">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x92FD" id="Crypt Keeper Gravestone Unlocker 3">
+    <Class>Equipment</Class>
+    <DisplayId>Level 20 Crypt Keeper Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>236</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Crypt Keeper Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21460">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x92FE" id="Crypt Keeper Gravestone Unlocker 4">
+    <Class>Equipment</Class>
+    <DisplayId>1/8 Crypt Keeper Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>237</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Crypt Keeper Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21461">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x92FF" id="Crypt Keeper Gravestone Unlocker 5">
+    <Class>Equipment</Class>
+    <DisplayId>2/8 Crypt Keeper Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>113</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Crypt Keeper Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21462">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9300" id="Crypt Keeper Gravestone Unlocker 6">
+    <Class>Equipment</Class>
+    <DisplayId>3/8 Crypt Keeper Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>114</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Crypt Keeper Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21463">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9301" id="Crypt Keeper Gravestone Unlocker 7">
+    <Class>Equipment</Class>
+    <DisplayId>4/8 Crypt Keeper Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>115</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Crypt Keeper Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21464">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9302" id="Crypt Keeper Gravestone Unlocker 8">
+    <Class>Equipment</Class>
+    <DisplayId>5/8 Crypt Keeper Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>116</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Crypt Keeper Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21465">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9303" id="Crypt Keeper Gravestone Unlocker 9">
+    <Class>Equipment</Class>
+    <DisplayId>6/8 Crypt Keeper Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>117</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Crypt Keeper Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21466">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9304" id="Crypt Keeper Gravestone Unlocker 10">
+    <Class>Equipment</Class>
+    <DisplayId>7/8 Crypt Keeper Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>118</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Crypt Keeper Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21467">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9305" id="Crypt Keeper Gravestone Unlocker 11">
+    <Class>Equipment</Class>
+    <DisplayId>8/8 Crypt Keeper Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>119</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Crypt Keeper Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21468">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9306" id="Floral Demise Gravestone Unlocker 1">
+    <Class>Equipment</Class>
+    <DisplayId>Level 1 Floral Demise Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>238</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Floral Demise Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21469">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9307" id="Floral Demise Gravestone Unlocker 2">
+    <Class>Equipment</Class>
+    <DisplayId>Level 2-19 Floral Demise Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>239</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Floral Demise Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21470">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9308" id="Floral Demise Gravestone Unlocker 3">
+    <Class>Equipment</Class>
+    <DisplayId>Level 20 Floral Demise Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>240</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Floral Demise Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21471">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9309" id="Floral Demise Gravestone Unlocker 4">
+    <Class>Equipment</Class>
+    <DisplayId>1/8 Floral Demise Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>241</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Floral Demise Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21472">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x930A" id="Floral Demise Gravestone Unlocker 5">
+    <Class>Equipment</Class>
+    <DisplayId>2/8 Floral Demise Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>120</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Floral Demise Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21473">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x930B" id="Floral Demise Gravestone Unlocker 6">
+    <Class>Equipment</Class>
+    <DisplayId>3/8 Floral Demise Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>121</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Floral Demise Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21474">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x930C" id="Floral Demise Gravestone Unlocker 7">
+    <Class>Equipment</Class>
+    <DisplayId>4/8 Floral Demise Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>122</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Floral Demise Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21475">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x930D" id="Floral Demise Gravestone Unlocker 8">
+    <Class>Equipment</Class>
+    <DisplayId>5/8 Floral Demise Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>123</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Floral Demise Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21476">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x930E" id="Floral Demise Gravestone Unlocker 9">
+    <Class>Equipment</Class>
+    <DisplayId>6/8 Floral Demise Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>124</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Floral Demise Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21477">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x930F" id="Floral Demise Gravestone Unlocker 10">
+    <Class>Equipment</Class>
+    <DisplayId>7/8 Floral Demise Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>125</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Floral Demise Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21478">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9310" id="Floral Demise Gravestone Unlocker 11">
+    <Class>Equipment</Class>
+    <DisplayId>8/8 Floral Demise Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>126</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Floral Demise Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21479">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9311" id="Academic Ascension Gravestone Unlocker 1">
+    <Class>Equipment</Class>
+    <DisplayId>Level 1 Academic Ascension Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>242</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Academic Ascension Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21480">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9312" id="Academic Ascension Gravestone Unlocker 2">
+    <Class>Equipment</Class>
+    <DisplayId>Level 2-19 Academic Ascension Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>243</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Academic Ascension Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21481">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9313" id="Academic Ascension Gravestone Unlocker 3">
+    <Class>Equipment</Class>
+    <DisplayId>Level 20 Academic Ascension Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>244</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Academic Ascension Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21482">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9314" id="Academic Ascension Gravestone Unlocker 4">
+    <Class>Equipment</Class>
+    <DisplayId>1/8 Academic Ascension Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone8x8</File>
+      <Index>245</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Academic Ascension Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21483">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9315" id="Academic Ascension Gravestone Unlocker 5">
+    <Class>Equipment</Class>
+    <DisplayId>2/8 Academic Ascension Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>127</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Academic Ascension Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21484">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9316" id="Academic Ascension Gravestone Unlocker 6">
+    <Class>Equipment</Class>
+    <DisplayId>3/8 Academic Ascension Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>128</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Academic Ascension Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21485">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9317" id="Academic Ascension Gravestone Unlocker 7">
+    <Class>Equipment</Class>
+    <DisplayId>4/8 Academic Ascension Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>129</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Academic Ascension Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21486">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9318" id="Academic Ascension Gravestone Unlocker 8">
+    <Class>Equipment</Class>
+    <DisplayId>5/8 Academic Ascension Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>130</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Academic Ascension Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21487">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9319" id="Academic Ascension Gravestone Unlocker 9">
+    <Class>Equipment</Class>
+    <DisplayId>6/8 Academic Ascension Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>131</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Academic Ascension Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21488">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9320" id="Academic Ascension Gravestone Unlocker 10">
+    <Class>Equipment</Class>
+    <DisplayId>7/8 Academic Ascension Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>132</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Academic Ascension Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21489">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+  <Object type="0x9321" id="Academic Ascension Gravestone Unlocker 11">
+    <Class>Equipment</Class>
+    <DisplayId>8/8 Academic Ascension Grave Unlocker</DisplayId>
+    <Item />
+    <Texture>
+      <File>lofiGravestone16x16</File>
+      <Index>133</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Unlock a new Academic Ascension Gravestone for customizing your Graves!</Description>
+    <Activate gravestoneType="21490">UnlockGravestone</Activate>
+    <Consumable />
+    <Soulbound />
+    <BagType>7</BagType>
+    <feedPower>1000</feedPower>
+    <UniqueID />
+    <Track />
+  </Object>
+</Objects>

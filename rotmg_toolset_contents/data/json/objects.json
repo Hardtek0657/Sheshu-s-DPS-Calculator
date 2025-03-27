@@ -1,0 +1,1907 @@
+{
+    "RefractionSummon1": {
+        "displayId": "Mirror Image",
+        "minDamage": 200,
+        "maxDamage": 300,
+        "lifetimeMs": 4000,
+        "triggerCooldownMs": 200,
+        "projectileCount": 2,
+        "mergeWithEquipment": false
+    },
+    "Eye of Marble": {
+        "lifetimeMs": 4500,
+        "statusEffectAura": [
+            { "type": "Armored", "durationMs": 200 },
+            { "type": "Damaging", "durationMs": 200 }
+        ]
+    },
+    "Healing Shroom": {
+        "lifetimeMs": 3000,
+        "triggerCooldownMs": 1000,
+        "heal": 75,
+        "statusEffectAura": [
+            { "type": "Healing", "durationMs": 1000 }
+        ],
+        "mergeWithEquipment": false
+    },
+    "Healing Shroom Shiny": {
+        "lifetimeMs": 3000,
+        "triggerCooldownMs": 1000,
+        "heal": 75,
+        "statusEffectAura": [
+            { "type": "Healing", "durationMs": 1000 }
+        ],
+        "mergeWithEquipment": false
+    },
+    "Tezutsu Hanabi Object 0": {
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 1000,
+        "evolveOnSpawn": ["MV Spirit"]
+    },
+    "MV Kagenohikari 2 Summon": {
+        "displayId": "Friendly Spirit",
+        "subObjectPerCast": [
+            "MV Wakibiki Summon LV3",
+            "MV Happi Summon LV3",
+            "MV Kimono Summon LV3"
+        ],
+        "destroyChildren": false,
+        "mergeWithEquipment": false
+    },
+    "MV Kagenohikari Summon": {
+        "displayId": "Friendly Spirit",
+        "subObjectPerCast": [
+            "MV Wakibiki Summon LV2",
+            "MV Happi Summon LV2",
+            "MV Kimono Summon LV2"
+        ],
+        "destroyChildren": false,
+        "mergeWithEquipment": false
+    },
+    "MV Hanabi Summon LV3": {
+        "displayId": "Friendly Spirit",
+        "tags": ["MV Spirit"],
+        "minDamage": 150,
+        "maxDamage": 200,
+        "projectileCount": 3,
+        "lifetimeMs": 15000,
+        "triggerCooldownMs": 1000,
+        "mergeWithEquipment": false
+    },
+    "MV Hanabi Summon LV2": {
+        "displayId": "Friendly Spirit",
+        "tags": ["MV Spirit"],
+        "evolveId": "MV Hanabi Summon LV3",
+        "minDamage": 150,
+        "maxDamage": 200,
+        "projectileCount": 3,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 1000,
+        "mergeWithEquipment": false
+    },
+    "MV Hanabi Summon": {
+        "displayId": "Friendly Spirit",
+        "tags": ["MV Spirit"],
+        "evolveId": "MV Hanabi Summon LV2",
+        "minDamage": 150,
+        "maxDamage": 200,
+        "projectileCount": 3,
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 1000,
+        "mergeWithEquipment": false
+    },
+    "MV Wakibiki Summon LV3": {
+        "displayId": "Friendly Spirit",
+        "tags": ["MV Slow Spirit"],
+        "evolveOnSpawn": ["MV Curse Spirit", "MV Heal Spirit"],
+        "minDamage": 350,
+        "maxDamage": 350,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000,
+        "statusEffectOnHit": [
+            { "type": "Slowed", "durationMs": 1000 }
+        ],
+        "mergeWithEquipment": false
+    },
+    "MV Wakibiki Summon LV2": {
+        "displayId": "Friendly Spirit",
+        "tags": ["MV Slow Spirit"],
+        "evolveId": "MV Wakibiki Summon LV3",
+        "evolveOnSpawn": ["MV Curse Spirit", "MV Heal Spirit"],
+        "uniqueEvolveInstigator": true,
+        "minDamage": 250,
+        "maxDamage": 250,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000,
+        "statusEffectOnHit": [
+            { "type": "Slowed", "durationMs": 1000 }
+        ],
+        "mergeWithEquipment": false
+    },
+    "MV Wakibiki Summon": {
+        "displayId": "Friendly Spirit",
+        "tags": ["MV Slow Spirit"],
+        "evolveId": "MV Wakibiki Summon LV2",
+        "evolveOnSpawn": ["MV Curse Spirit", "MV Heal Spirit"],
+        "uniqueEvolveInstigator": true,
+        "minDamage": 150,
+        "maxDamage": 150,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000,
+        "statusEffectOnHit": [
+            { "type": "Slowed", "durationMs": 1000 }
+        ],
+        "mergeWithEquipment": false
+    },
+    "MV Happi Summon LV3": {
+        "displayId": "Friendly Spirit",
+        "tags": ["MV Curse Spirit"],
+        "evolveOnSpawn": ["MV Slow Spirit", "MV Heal Spirit"],
+        "minDamage": 350,
+        "maxDamage": 350,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000,
+        "statusEffectOnHit": [
+            { "type": "Curse", "durationMs": 1000 }
+        ],
+        "mergeWithEquipment": false
+    },
+    "MV Happi Summon LV2": {
+        "displayId": "Friendly Spirit",
+        "tags": ["MV Curse Spirit"],
+        "evolveId": "MV Happi Summon LV3",
+        "evolveOnSpawn": ["MV Slow Spirit", "MV Heal Spirit"],
+        "uniqueEvolveInstigator": true,
+        "minDamage": 250,
+        "maxDamage": 250,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000,
+        "statusEffectOnHit": [
+            { "type": "Curse", "durationMs": 1000 }
+        ],
+        "mergeWithEquipment": false
+    },
+    "MV Happi Summon": {
+        "displayId": "Friendly Spirit",
+        "tags": ["MV Curse Spirit"],
+        "evolveId": "MV Happi Summon LV2",
+        "evolveOnSpawn": ["MV Slow Spirit", "MV Heal Spirit"],
+        "uniqueEvolveInstigator": true,
+        "minDamage": 150,
+        "maxDamage": 150,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000,
+        "statusEffectOnHit": [
+            { "type": "Curse", "durationMs": 1000 }
+        ],
+        "mergeWithEquipment": false
+    },
+    "MV Kimono Summon LV3": {
+        "displayId": "Friendly Spirit",
+        "tags": ["MV Heal Spirit"],
+        "evolveOnSpawn": ["MV Slow Spirit", "MV Curse Spirit"],
+        "minDamage": 150,
+        "maxDamage": 150,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000,
+        "heal": 20,
+        "statusEffectAura": [
+            { "type": "Healing", "durationMs": 1000 }
+        ],
+        "mergeWithEquipment": false
+    },
+    "MV Kimono Summon LV2": {
+        "displayId": "Friendly Spirit",
+        "tags": ["MV Heal Spirit"],
+        "evolveId": "MV Kimono Summon LV3",
+        "evolveOnSpawn": ["MV Slow Spirit", "MV Curse Spirit"],
+        "uniqueEvolveInstigator": true,
+        "minDamage": 150,
+        "maxDamage": 150,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000,
+        "heal": 10,
+        "statusEffectAura": [
+            { "type": "Healing", "durationMs": 1000 }
+        ],
+        "mergeWithEquipment": false
+    },
+    "MV Kimono Summon": {
+        "displayId": "Friendly Spirit",
+        "tags": ["MV Heal Spirit"],
+        "evolveId": "MV Kimono Summon LV2",
+        "evolveOnSpawn": ["MV Slow Spirit", "MV Curse Spirit"],
+        "uniqueEvolveInstigator": true,
+        "minDamage": 150,
+        "maxDamage": 150,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000,
+        "statusEffectAura": [
+            { "type": "Healing", "durationMs": 1000 }
+        ],
+        "mergeWithEquipment": false
+    },
+    "LivingHive Bee": {
+        "displayId": "Bees",
+        "minDamage": 115,
+        "maxDamage": 115,
+        "lifetimeMs": 4000,
+        "triggerCooldownMs": 400,
+        "mergeWithEquipment": false
+    },
+    "2Kensei ST Summon": {
+        "minDamage": 200,
+        "maxDamage": 300,
+        "lifetimeMs": 900,
+        "triggerCooldownMs": 300,
+        "projectileCount": 3
+    },
+    "Death Caster": {
+        "minDamage": 100,
+        "maxDamage": 150,
+        "ignoreDefense": true,
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 600,
+        "mergeWithEquipment": false,
+        "isSummon": true
+    },
+    "Impcubus": {
+        "minDamage": 200,
+        "maxDamage": 200,
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 500,
+        "mergeWithEquipment": false
+    },
+    "Magic Dove": {
+        "minDamage": 200,
+        "maxDamage": 200,
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 500,
+        "mergeWithEquipment": false
+    },
+    "Combined Tree": {
+        "minDamage": 50,
+        "maxDamage": 50,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 200,
+        "statusEffectOnHit": [
+            { "type": "Exposed", "durationMs": 200 },
+            { "type": "Weak", "durationMs": 200 },
+            { "type": "Energized", "durationMs": 200 }
+        ]
+    },
+    "Exposed Tree": {
+        "minDamage": 50,
+        "maxDamage": 50,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 200,
+        "statusEffectOnHit": [
+            { "type": "Exposed", "durationMs": 200 }
+        ]
+    }, 
+    "Weak Tree": {
+        "minDamage": 50,
+        "maxDamage": 50,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 200,
+        "statusEffectOnHit": [
+            { "type": "Weak", "durationMs": 200 }
+        ]
+    }, 
+    "Energized Tree": {
+        "minDamage": 50,
+        "maxDamage": 50,
+        "lifetimeMs": 10000, 
+        "triggerCooldownMs": 200,
+        "statusEffectOnHit": [
+            { "type": "Energized", "durationMs": 200 }
+        ]
+    }, 
+    
+    "Storm Totem 1": {
+        "displayId": "Storm Totem",
+        "minDamage": 80,
+        "maxDamage": 160,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 600,
+        "mergeWithEquipment": false
+    },
+    "Storm Totem 2": {
+        "displayId": "Storm Totem",
+        "minDamage": 100,
+        "maxDamage": 200,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 600,
+        "mergeWithEquipment": false
+    },
+    "Storm Totem 3": {
+        "displayId": "Storm Totem",
+        "minDamage": 120,
+        "maxDamage": 240,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 600,
+        "mergeWithEquipment": false
+    },
+    "Storm Totem 4": {
+        "displayId": "Storm Totem",
+        "minDamage": 140,
+        "maxDamage": 280,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 600,
+        "mergeWithEquipment": false
+    },
+    "2RogueSTBat": {
+        "displayId": "Bat",
+        "minDamage": 60,
+        "maxDamage": 80,
+        "ignoreDefense": true,
+        "lifetimeMs": 4000,
+        "triggerCooldownMs": 400,
+        "mergeWithEquipment": true
+    },
+    "2SummonerST1A": {
+
+    },
+    "2SummonerST1B": {
+
+    },
+    "Acid Puddle": {
+        "minDamage": 200,
+        "maxDamage": 200,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 1000
+    },
+    "AoO Beacon Of Blight 1": {
+        "minDamage": 400,
+        "maxDamage": 400
+    },
+    "AoO Beacon Of Blight 2": {
+        "minDamage": 500,
+        "maxDamage": 500
+    },
+    "AoO Beacon Of Blight 3": {
+        "minDamage": 600,
+        "maxDamage": 600
+    },
+    "AoO Beacon Of Blight": {
+        "subObjectPerTrigger": [
+            "AoO Beacon Of Blight 1",
+            "AoO Beacon Of Blight 2",
+            "AoO Beacon Of Blight 3"
+        ],
+        "destroyChildren": false,
+        "lifetimeMs": 3000,
+        "triggerCooldownMs": 1000
+    },
+    "AoO Spell Decoy": {
+        "displayId": "Spike",
+        "minDamage": 350,
+        "maxDamage": 450
+    },
+    "AoO Skull Minion": {
+        "displayId": "Skeleton",
+        "minDamage": 200,
+        "maxDamage": 200,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 600,
+        "mergeWithEquipment": false
+    },
+    "AoO Trap Snare": {
+        "minDamage": 250,
+        "maxDamage": 250,
+        "lifetimeMs": 500,
+        "triggerCooldownMs": 1000
+    },
+    "Battalion Banner Effect": {
+        "minDamage": 400,
+        "maxDamage": 600,
+        "lifetimeMs": 4000,
+        "triggerCooldownMs": 1000
+    },
+    "Brain Cube Object": {
+        "displayId": "1st Explosion"
+    },
+    "Brain Cube Effect 1": {
+        "displayId": "2nd Explosion",
+        "minDamage": 500,
+        "maxDamage": 600
+    },
+    "Brain Cube Effect 2": {
+        "displayId": "3rd Explosion",
+        "minDamage": 400,
+        "maxDamage": 500
+    },
+    "Chaotic Scripture Effect": {
+        "minDamage": 1800,
+        "maxDamage": 2200,
+        "ignoreDefense": true
+    },
+    "Concertina Big Parrot": {
+        "minDamage": 450,
+        "maxDamage": 450,
+        "lifetimeMs": 4000,
+        "triggerCooldownMs": 1000,
+        "mergeWithEquipment": false
+    },
+    "Concertina Small Parrot": {
+        "minDamage": 450,
+        "maxDamage": 450,
+        "lifetimeMs": 2000,
+        "triggerCooldownMs": 1000,
+        "mergeWithEquipment": false
+    },
+    "Concertina Big Parrot Shiny": {
+        "minDamage": 450,
+        "maxDamage": 450,
+        "lifetimeMs": 4000,
+        "triggerCooldownMs": 1000,
+        "mergeWithEquipment": false
+    },
+    "Concertina Small Parrot Shiny": {
+        "minDamage": 450,
+        "maxDamage": 450,
+        "lifetimeMs": 2000,
+        "triggerCooldownMs": 1000,
+        "mergeWithEquipment": false
+    },
+    "Joker Timbrel Big Jester": {
+        "minDamage": 450,
+        "maxDamage": 450,
+        "lifetimeMs": 4000,
+        "triggerCooldownMs": 1000,
+        "mergeWithEquipment": false
+    },
+    "Joker Timbrel Small Jester": {
+        "minDamage": 450,
+        "maxDamage": 450,
+        "lifetimeMs": 2000,
+        "triggerCooldownMs": 1000,
+        "mergeWithEquipment": false
+    },
+    "Cranium Effect": {
+        "minDamage": 150,
+        "maxDamage": 150,
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 200
+    },
+    "Crystal Sentry": {
+        "minDamage": 350,
+        "maxDamage": 350,
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 800
+    },
+    "CR Friendly Cnidarian": {
+        "displayId": "Cnidarian",
+        "minDamage": 375,
+        "maxDamage": 375,
+        "lifetimeMs": 3000,
+        "triggerCooldownMs": 500
+    },
+    "Divinity Effect": {
+        "displayId": "Exalted Beam",
+        "minDamage": 600,
+        "maxDamage": 800,
+        "damageScaling": true,
+        "mergeWithEquipment": false
+    },
+    "EH Trap Helper": {
+        "minDamage": 150,
+        "maxDamage": 160,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000
+    },
+    "Genesis Spell Portal Rand": {
+        "displayId": "Portal",
+        "minDamage": 125,
+        "maxDamage": 125,
+        "lifetimeMs": 4000,
+        "triggerCooldownMs": 400,
+        "mergeWithEquipment": false
+    },
+    "Genesis Spell Portal 1": {
+        "minDamage": 250,
+        "maxDamage": 250,
+        "lifetimeMs": 4000,
+        "triggerCooldownMs": 400
+    },
+    "Genesis Spell Portal 2": {
+        "minDamage": 250,
+        "maxDamage": 250,
+        "lifetimeMs": 4000,
+        "triggerCooldownMs": 400
+    },
+    "Genesis Spell Portal 3": {
+        "minDamage": 250,
+        "maxDamage": 250,
+        "lifetimeMs": 4000,
+        "triggerCooldownMs": 400
+    },
+    "Genesis Spell Portal 4": {
+        "minDamage": 250,
+        "maxDamage": 250,
+        "lifetimeMs": 4000,
+        "triggerCooldownMs": 400
+    },
+    "Guided Forgotten Soul": {
+        "displayId": "Forgotten Soul",
+        "minDamage": 200,
+        "maxDamage": 200,
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 1000,
+        "mergeWithEquipment": false
+    },
+    "Gun Turret": {
+        "minDamage": 195,
+        "maxDamage": 295,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 200,
+        "mergeWithEquipment": false
+    },
+    "Gun Turret Boost": {
+        "displayId": "Enhanced Gun Turret",
+        "minDamage": 195,
+        "maxDamage": 295,
+        "projectileCount": 2,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 200,
+        "mergeWithEquipment": false
+    },
+    "Shield Turret Chain": {
+        "minDamage": 225,
+        "maxDamage": 295,
+        "projectileCount": 4,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000
+    },
+    "Shield Turret Chain Boost": {
+        "minDamage": 225,
+        "maxDamage": 295,
+        "projectileCount": 8,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000
+    },
+    "Shield Turret Head": {
+        "minDamage": 285,
+        "maxDamage": 335,
+        "projectileCount": 4,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000
+    },
+    "Shield Turret": {
+        "displayId": "Flail Turret",
+        "spawnObjectsPerTrigger": [
+            "Shield Turret Chain",
+            "Shield Turret Head"
+        ],
+        "mergeWithEquipment": false
+    },
+    "Shield Turret Boost": {
+        "displayId": "Enhanced Flail Turret",
+        "spawnObjectsPerTrigger": [
+            "Shield Turret Chain Boost",
+            "Shield Turret Head"
+        ],
+        "mergeWithEquipment": false
+    },
+    "Heavy Gun Turret": {
+        "displayId": "Heavy Turret",
+        "minDamage": 300,
+        "maxDamage": 350,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 400,
+        "mergeWithEquipment": false
+    },
+    "Heavy Gun Turret Boost": {
+        "displayId": "Enhanced Heavy Turret",
+        "minDamage": 350,
+        "maxDamage": 525,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 400,
+        "mergeWithEquipment": false
+    },
+    "Hanagasaku Bud Bomb": {
+        "minDamage": 1000,
+        "maxDamage": 1100,
+        "delayMs": 800
+    },
+    "Kensei ST Summon": {
+        "displayId": "Tornado",
+        "minDamage": 50,
+        "maxDamage": 100,
+        "ignoreDefense": true,
+        "lifetimeMs": 8000,
+        "triggerCooldownMs": 200,
+        "isSummon": true,
+        "mergeWithEquipment": false
+    },
+    "Killer Shroom": {
+        "minDamage": 1000,
+        "maxDamage": 1000,
+        "lifetimeMs": 4000,
+        "triggerCooldownMs": 1000,
+        "mergeWithEquipment": false
+    },
+    "Kogbold Firework": {
+        "minDamage": 45,
+        "maxDamage": 75,
+        "projectileCount": 12,
+        "ignoreDefense": true
+    },
+    "Lullaby Pharaoh Mask": {
+        "statusEffectOnHit": [
+            { "type": "Weak", "durationMs": 300 }
+        ],
+        "lifetimeMs": 3000,
+        "triggerCooldownMs": 1000
+    },
+    "MV Rain Maker Object": {
+        "displayId": "Rain Droplet",
+        "minDamage": 250,
+        "maxDamage": 300,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "MV Spirit Staff Soul": {
+        "displayId": "Spirit",
+        "minDamage": 100,
+        "maxDamage": 100,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000,
+        "minDamageOnDeath": 100,
+        "maxDamageOnDeath": 150,
+        "mergeWithEquipment": false
+    },
+    "Oryx's Escutcheon Effect 1": {
+        "displayId": "Beam",
+        "minDamage": 1000,
+        "maxDamage": 1200
+    },
+    "Painbow Bomb": {
+        "minDamage": 10,
+        "maxDamage": 60,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 600
+    },
+    "Perennial Cranium Flower": {
+        "displayId": "Perennical Flower",
+        "minDamage": 150,
+        "maxDamage": 150,
+        "heal": 40,
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 800,
+        "mergeWithEquipment": false
+    },
+    "Plague Leech Damage AOE": {
+        "displayId": "Explosion",
+        "minDamageOnDeath": 1000,
+        "maxDamageOnDeath": 1000,
+        "isSummon": true,
+        "mergeWithEquipment": true
+    },
+    "Plague Leech Damage AOE and Zap": {
+        "displayId": "Explosion",
+        "minDamageOnDeath": 1000,
+        "maxDamageOnDeath": 1000,
+        "isSummon": true,
+        "mergeWithEquipment": true
+    },
+    "Polarity Poison Effect 1": {},
+    "Polarity Poison Effect 2": {},
+    "Polarity Poison Effect 3": {},
+    "Polarity Poison Effect 4": {},
+    "Primal Arcana Proc": {
+        "id": "0x5625",
+        "displayId": "On Shoot Projectiles",
+        "minDamage": 65,
+        "maxDamage": 80,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Ritual Circle Summoner": {
+        "displayId": "Ritual Circle",
+        "minDamage": 225,
+        "maxDamage": 275,
+        "projectileCount": 5,
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 1000,
+        "decreaseDamage": 25,
+        "decreaseDamagePerTriggerCount": 1
+    },
+    "Seismic Flail Impact": {
+        "displayId": "Seismic Impact",
+        "minDamage": 330,
+        "maxDamage": 395,
+        "mergeWithEquipment": false
+    },
+    "Sentinel Waki Object A": {
+        "minDamage": 1000,
+        "maxDamage": 1000
+    },
+    "Sentinel Waki Object B": {
+        "minDamage": 1000,
+        "maxDamage": 1000
+    },
+    "Sentinel Waki Object C": {
+        "minDamage": 1000,
+        "maxDamage": 1000
+    },
+    "Sentinel Waki Object A Shiny": {
+        "minDamage": 1000,
+        "maxDamage": 1000
+    },
+    "Sentinel Waki Object B Shiny": {
+        "minDamage": 1000,
+        "maxDamage": 1000
+    },
+    "Sentinel Waki Object C Shiny": {
+        "minDamage": 1000,
+        "maxDamage": 1000
+    },
+    "Sentinel Waki Object A (Rehearsal)": {
+        "minDamage": 800,
+        "maxDamage": 800
+    },
+    "Sentinel Waki Object B (Rehearsal)": {
+        "minDamage": 800,
+        "maxDamage": 800
+    },
+    "Sentinel Waki Object C (Rehearsal)": {
+        "minDamage": 800,
+        "maxDamage": 800
+    },
+    "Slurp Spell Explosion": {
+        "minDamage": 650,
+        "maxDamage": 950
+    },
+    "Spirit Prism Bomb": {
+        "displayId": "Bomb",
+        "minDamage": 320,
+        "maxDamage": 480,
+        "lifetimeMs": 2400,
+        "triggerCooldownMs": 400
+    },
+    "Storm2BardST1A": {
+        "displayId": "Lightning Strike",
+        "minDamage": 900,
+        "maxDamage": 900,
+        "mergeWithEquipment": false
+    },
+    "Storm2BardST1B": {
+        "displayId": "Recursive Thunder",
+        "minDamage": 200,
+        "maxDamage": 250,
+        "mergeWithEquipment": false,
+        "lifetimeMs": 600,
+        "triggerCooldownMs": 200
+    },
+    "ST Huntress Trap": {
+        "statusEffectOnHit": [
+            { "type": "Weak", "durationMs": 400 },
+            { "type": "Healing", "durationMs": 400 }
+        ]
+    },
+    "SulfW Trap Bubble": {
+        "minDamage": 850,
+        "maxDamage": 850,
+        "delayMs": 2000
+    },
+    "Summon Rat": {
+        "displayId": "Rat",
+        "minDamage": 25,
+        "maxDamage": 50,
+        "lifetimeMs": 9000,
+        "triggerCooldownMs": 600,
+        "isSummon": true
+    },
+    "Summon Squirrel": {
+        "displayId": "Squirrel",
+        "minDamage": 50,
+        "maxDamage": 75,
+        "lifetimeMs": 9600,
+        "triggerCooldownMs": 600,
+        "isSummon": true
+    },
+    "Summon Raccoon": {
+        "displayId": "Raccoon",
+        "minDamage": 75,
+        "maxDamage": 100,
+        "lifetimeMs": 10200,
+        "triggerCooldownMs": 600,
+        "isSummon": true
+    },
+    "Summon Cat": {
+        "displayId": "Cat",
+        "minDamage": 100,
+        "maxDamage": 125,
+        "lifetimeMs": 10800,
+        "triggerCooldownMs": 600,
+        "isSummon": true
+    },
+    "Summon Fox": {
+        "displayId": "Fox",
+        "minDamage": 135,
+        "maxDamage": 160,
+        "lifetimeMs": 11400,
+        "triggerCooldownMs": 600,
+        "isSummon": true
+    },
+    "Summon Wolf": {
+        "displayId": "Wolf",
+        "minDamage": 170,
+        "maxDamage": 195,
+        "lifetimeMs": 12000,
+        "triggerCooldownMs": 600,
+        "isSummon": true
+    },
+    "Summon Bear": {
+        "displayId": "Bear",
+        "minDamage": 205,
+        "maxDamage": 230,
+        "lifetimeMs": 12600,
+        "triggerCooldownMs": 600,
+        "isSummon": true
+    },
+    "Summon Panther": {
+        "displayId": "Panther",
+        "minDamage": 240,
+        "maxDamage": 265,
+        "lifetimeMs": 13200,
+        "triggerCooldownMs": 600,
+        "isSummon": true
+    },
+    "Recursion Mace LargeSummon": {
+        "displayId": "Summoner",
+        "minDamage": 145,
+        "maxDamage": 180,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 1000,
+        "isSummon": true
+    },
+    "Green Sprite Tree": {
+        "minDamage": 420,
+        "maxDamage": 650,
+        "projectileCount": 3,
+        "lifetimeMs": 12000,
+        "triggerCooldownMs": 2000,
+        "mergeWithEquipment": false
+    },
+    "Blue Sprite Tree": {
+        "minDamage": 190,
+        "maxDamage": 285,
+        "projectileCount": 3,
+        "lifetimeMs": 12000,
+        "triggerCooldownMs": 1000,
+        "delayMs": 2000,
+        "mergeWithEquipment": false
+    },
+    "Yellow Sprite Tree": {
+        "minDamage": 120,
+        "maxDamage": 165,
+        "projectileCount": 6,
+        "lifetimeMs": 12000,
+        "triggerCooldownMs": 1000,
+        "delayMs": 2000,
+        "mergeWithEquipment": false
+    },
+    "Red Sprite Tree": {
+        "minDamage": 90,
+        "maxDamage": 110,
+        "projectileCount": 3,
+        "lifetimeMs": 12000,
+        "triggerCooldownMs": 400,
+        "delayMs": 2000,
+        "mergeWithEquipment": false
+    },
+    "Summon Sprite Tree": {
+        "subObjectPerCast": [
+            "Blue Sprite Tree",
+            "Yellow Sprite Tree",
+            "Red Sprite Tree",
+            "Green Sprite Tree"
+        ],
+        "lifetimeMs": 12000,
+        "isSummon": true,
+        "destroyChildren": true
+    },
+    "AoO Summon": {
+        "minDamage": 200,
+        "maxDamage": 275,
+        "lifetimeMs": 10200,
+        "triggerCooldownMs": 600,
+        "isSummon": true
+    },
+    "AoO Summon Big": {
+        "minDamage": 375,
+        "maxDamage": 525,
+        "lifetimeMs": 10200,
+        "triggerCooldownMs": 600,
+        "isSummon": true
+    },
+    "Summon Spider": {
+        "displayId": "Spider",
+        "minDamage": 100,
+        "maxDamage": 200,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 300,
+        "isSummon": true
+    },
+    "Summon Steed": {
+        "displayId": "Steed",
+        "minDamage": 50,
+        "maxDamage": 70,
+        "projectileCount": 2,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 400,
+        "ignoreDefense": true,
+        "isSummon": true
+    },
+    "Summon Fiery Dragon": {
+        "displayId": "Fiery Dragon",
+        "minDamage": 50,
+        "maxDamage": 70,
+        "projectileCount": 2,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 400,
+        "ignoreDefense": true,
+        "isSummon": true
+    },
+    "Summon Bee": {
+        "displayId": "Bee",
+        "minDamage": 240,
+        "maxDamage": 310,
+        "projectileCount": 3,
+        "lifetimeMs": 10000,
+        "triggerCooldownMs": 1000,
+        "isSummon": true,
+        "mergeWithEquipment": true
+    },
+    "Summon Royal Knight: Slash": {
+        "minDamage": 100,
+        "maxDamage": 250,
+        "projectileCount": 6,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000,
+        "ignoreDefense": true
+    },
+    "Summon Royal Knight: Flurry": {
+        "minDamage": 100,
+        "maxDamage": 200,
+        "projectileCount": 3,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 200,
+        "ignoreDefense": true
+    },
+    "Summon Royal Knight": {
+        "displayId": "Royal Knight",
+        "subObjectPerTrigger": [
+            "Summon Royal Knight: Slash",
+            "Summon Royal Knight: Flurry"
+        ],
+        "lifetimeMs": 12000,
+        "triggerCooldownMs": 6000,
+        "isSummon": true,
+        "destroyChildren": true,
+        "mergeWithEquipment": false
+    },
+    "Summon Royal Archer": {
+        "displayId": "Royal Archer",
+        "minDamage": 500,
+        "maxDamage": 600,
+        "lifetimeMs": 12000,
+        "triggerCooldownMs": 750,
+        "isSummon": true,
+        "mergeWithEquipment": false
+    },
+    "Summon Royal Raider": {
+        "displayId": "Royal Raider",
+        "minDamage": 100,
+        "maxDamage": 150,
+        "projectileCount": 3,
+        "lifetimeMs": 12000,
+        "triggerCooldownMs": 600,
+        "ignoreDefense": true,
+        "isSummon": true,
+        "mergeWithEquipment": false
+    },
+    "CreepST1: Unstable": {
+        "minDamage": 150,
+        "maxDamage": 200,
+        "projectileCount": 1,
+        "lifetimeMs": 2000,
+        "triggerCooldownMs": 500
+    },
+    "CreepST2: Unstable": {
+        "minDamage": 150,
+        "maxDamage": 200,
+        "projectileCount": 2,
+        "lifetimeMs": 2000,
+        "triggerCooldownMs": 500
+    },
+    "CreepST3: Unstable": {
+        "minDamage": 150,
+        "maxDamage": 200,
+        "projectileCount": 3,
+        "lifetimeMs": 2000,
+        "triggerCooldownMs": 500
+    },
+    "CreepST4: Unstable": {
+        "minDamage": 150,
+        "maxDamage": 200,
+        "projectileCount": 4,
+        "lifetimeMs": 2000,
+        "triggerCooldownMs": 500
+    },
+    "CreepST": {
+        "minDamage": 150,
+        "maxDamage": 200,
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 600
+    },
+    "CreepST1": {
+        "displayId": "Wandering M.E.R.V.",
+        "subObjectPerTrigger": [
+            "CreepST", 
+            "CreepST1: Unstable"
+        ],
+        "minDamageOnDeath": 1000,
+        "maxDamageOnDeath": 1000,
+        "lifetimeMs": 7000,
+        "triggerCooldownMs": 5000,
+        "isSummon": true,
+        "destroyChildren": true
+    },
+    "CreepST2": {
+        "displayId": "Wandering M.E.R.V.",
+        "subObjectPerTrigger": [
+            "CreepST", 
+            "CreepST2: Unstable"
+        ],
+        "minDamageOnDeath": 1100,
+        "maxDamageOnDeath": 1100,
+        "lifetimeMs": 7000,
+        "triggerCooldownMs": 5000,
+        "isSummon": true,
+        "destroyChildren": true
+    },
+    "CreepST3": {
+        "displayId": "Wandering M.E.R.V.",
+        "subObjectPerTrigger": [
+            "CreepST", 
+            "CreepST3: Unstable"
+        ],
+        "minDamageOnDeath": 1250,
+        "maxDamageOnDeath": 1250,
+        "lifetimeMs": 7000,
+        "triggerCooldownMs": 5000,
+        "isSummon": true,
+        "destroyChildren": true
+    },
+    "CreepST4": {
+        "displayId": "Wandering M.E.R.V.",
+        "subObjectPerTrigger": [
+            "CreepST", 
+            "CreepST4: Unstable"
+        ],
+        "minDamageOnDeath": 1500,
+        "maxDamageOnDeath": 1500,
+        "lifetimeMs": 7000,
+        "triggerCooldownMs": 5000,
+        "isSummon": true,
+        "destroyChildren": true
+    },
+    "HCreepST1": {
+        "subObjectPerTrigger": [
+            "CreepST", 
+            "CreepST1: Unstable"
+        ],
+        "minDamageOnDeath": 1000,
+        "maxDamageOnDeath": 1000,
+        "lifetimeMs": 7000,
+        "triggerCooldownMs": 5000,
+        "isSummon": true,
+        "destroyChildren": true
+    },
+    "HCreepST2": {
+        "subObjectPerTrigger": [
+            "CreepST", 
+            "CreepST2: Unstable"
+        ],
+        "minDamageOnDeath": 1100,
+        "maxDamageOnDeath": 1100,
+        "lifetimeMs": 7000,
+        "triggerCooldownMs": 5000,
+        "isSummon": true,
+        "destroyChildren": true
+    },
+    "HCreepST3": {
+        "subObjectPerTrigger": [
+            "CreepST", 
+            "CreepST3: Unstable"
+        ],
+        "minDamageOnDeath": 1250,
+        "maxDamageOnDeath": 1250,
+        "lifetimeMs": 7000,
+        "triggerCooldownMs": 5000,
+        "isSummon": true,
+        "destroyChildren": true
+    },
+    "HCreepST4": {
+        "subObjectPerTrigger": [
+            "CreepST", 
+            "CreepST4: Unstable"
+        ],
+        "minDamageOnDeath": 1500,
+        "maxDamageOnDeath": 1500,
+        "lifetimeMs": 7000,
+        "triggerCooldownMs": 5000,
+        "isSummon": true,
+        "destroyChildren": true
+    },
+    "Summon Polar Bear": {
+        "minDamage": 205,
+        "maxDamage": 230,
+        "lifetimeMs": 12600,
+        "triggerCooldownMs": 600,
+        "isSummon": true
+    },
+    "Summon Royal Knight: Slash (Rehearsal)": {
+        "minDamage": 80,
+        "maxDamage": 200,
+        "projectileCount": 6,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 1000,
+        "ignoreDefense": true
+    },
+    "Summon Royal Knight: Flurry (Rehearsal)": {
+        "minDamage": 80,
+        "maxDamage": 160,
+        "projectileCount": 3,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 200,
+        "ignoreDefense": true
+    },
+    "Summon Royal Knight (Rehearsal)": {
+        "displayId": "Royal Knight",
+        "subObjectPerTrigger": [
+            "Summon Royal Knight: Slash (Rehearsal)", 
+            "Summon Royal Knight: Flurry (Rehearsal)"
+        ],
+        "lifetimeMs": 12000,
+        "triggerCooldownMs": 6000,
+        "isSummon": true,
+        "destroyChildren": true,
+        "mergeWithEquipment": false
+    },
+    "Summon Royal Archer (Rehearsal)": {
+        "displayId": "Royal Archer",
+        "minDamage": 400,
+        "maxDamage": 480,
+        "lifetimeMs": 12000,
+        "triggerCooldownMs": 750,
+        "isSummon": true,
+        "mergeWithEquipment": false
+    },
+    "Summon Royal Raider (Rehearsal)": {
+        "displayId": "Royal Raider",
+        "minDamage": 80,
+        "maxDamage": 120,
+        "projectileCount": 3,
+        "lifetimeMs": 12000,
+        "triggerCooldownMs": 600,
+        "ignoreDefense": true,
+        "isSummon": true,
+        "mergeWithEquipment": false
+    },
+    "Summon Rabbit": {
+        "minDamage": 300,
+        "maxDamage": 350,
+        "projectileCount": 3,
+        "delayMs": 2600,
+        "delayPerTriggerCount": 4,
+        "lifetimeMs": 9200,
+        "triggerCooldownMs": 500,
+        "isSummon": true
+    },
+    "tD Cloak Burst": {
+        "minDamage": 400,
+        "maxDamage": 400,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 600
+    },
+    "tD Friendly Frame": {
+        "displayId": "Decaying Cube",
+        "minDamage": 175,
+        "maxDamage": 175,
+        "delayMs": 100,
+        "lifetimeMs": 4000,
+        "triggerCooldownMs": 200,
+        "decreaseDamage": 25,
+        "decreaseDamagePerTriggerCount": 5
+    },
+    "UT 5 Sheath Projectile": {
+        "minDamage": 500,
+        "maxDamage": 500,
+        "projectileCount": 5
+    },
+    "Vanguard's Visage Proc": {
+        "id": "0x639a",
+        "minDamage": 150,
+        "maxDamage": 150
+    },
+    "Vanguard's Visage Proc (Rehearsal)": {
+        "id": "0x3a31",
+        "minDamage": 100,
+        "maxDamage": 100
+    },
+    "Void Rift": {
+        "minDamage": 150,
+        "maxDamage": 200,
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 400,
+        "mergeWithEquipment": false
+    },
+    "WizSTCreepSTFire": {
+        "displayId": "Inferno",
+        "minDamage": 130,
+        "maxDamage": 150,
+        "projectileCount": 2,
+        "ignoreDefense": true,
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 600,
+        "isSummon": true,
+        "mergeWithEquipment": false
+    },
+    "WizSTCreepSTIce": {
+        "displayId": "Blizzard",
+        "minDamage": 80,
+        "maxDamage": 100,
+        "projectileCount": 6,
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 400,
+        "isSummon": true,
+        "mergeWithEquipment": false
+    },
+    "Scepter Enchantment Explosion T7": {
+        "displayId": "Onhit Scepter Damage I",
+        "minDamage": 320,
+        "maxDamage": 320,
+        "mergeWithEquipment": false
+    },
+    "Scepter Enchantment Explosion T6": {
+        "displayId": "Onhit Scepter Damage I",
+        "minDamage": 300,
+        "maxDamage": 300,
+        "mergeWithEquipment": false
+    },
+    "Trap Enchantment Explosion T7": {
+        "displayId": "Onhit Trap Damage I",
+        "minDamage": 700,
+        "maxDamage": 700,
+        "mergeWithEquipment": false
+    },
+    "Trap Enchantment Explosion T6": {
+        "displayId": "Onhit Trap Damage I",
+        "minDamage": 610,
+        "maxDamage": 610,
+        "mergeWithEquipment": false
+    },
+    "ONHIT_BULLET_CREATE_MACE_T7": {
+        "id": "0x1d9F",
+        "displayId": "Onhit Mace Shots I",
+        "minDamage": 240,
+        "maxDamage": 265,
+        "projectileCount": 1,
+        "mergeWithEquipment": false
+    },
+    "ONHIT_BULLET_CREATE_MACE_T6": {
+        "id": "0x1d9E",
+        "displayId": "Onhit Mace Shots I",
+        "minDamage": 205,
+        "maxDamage": 230,
+        "projectileCount": 1,
+        "mergeWithEquipment": false
+    },
+    "ONHIT_BULLET_CREATE_WAKIZASHI_T7": {
+        "id": "0x1d9D",
+        "displayId": "Onhit Fire Wakizashi I",
+        "minDamage": 450,
+        "maxDamage": 600,
+        "projectileCount": 4,
+        "mergeWithEquipment": false
+    },
+    "ONHIT_BULLET_CREATE_WAKIZASHI_T6": {
+        "id": "0x1d9C",
+        "displayId": "Onhit Fire Wakizashi I",
+        "minDamage": 400,
+        "maxDamage": 500,
+        "projectileCount": 4,
+        "mergeWithEquipment": false
+    },
+    "ONHIT_BULLET_CREATE_SHURIKEN_T7": {
+        "id": "0x1d9B",
+        "displayId": "Onhit Fire Shuriken I",
+        "minDamage": 1575,
+        "maxDamage": 1675,
+        "projectileCount": 20,
+        "mergeWithEquipment": false
+    },
+    "ONHIT_BULLET_CREATE_SHURIKEN_T6": {
+        "id": "0x1d9A",
+        "displayId": "Onhit Fire Shuriken I",
+        "minDamage": 1325,
+        "maxDamage": 1425,
+        "projectileCount": 20,
+        "mergeWithEquipment": false
+    },
+    "ONHIT_BULLET_CREATE_SHIELD_T7": {
+        "id": "0x1d99",
+        "displayId": "Onhit Fire Shield I",
+        "minDamage": 340,
+        "maxDamage": 400,
+        "projectileCount": 5,
+        "mergeWithEquipment": false
+    },
+    "ONHIT_BULLET_CREATE_SHIELD_T6": {
+        "id": "0x1d98",
+        "displayId": "Onhit Fire Shield I",
+        "minDamage": 300,
+        "maxDamage": 360,
+        "projectileCount": 5,
+        "mergeWithEquipment": false
+    },
+    "ONHIT_BULLET_CREATE_SPELL_T7": {
+        "id": "0x1d97",
+        "displayId": "Onhit Spell Nova I",
+        "minDamage": 95,
+        "maxDamage": 185,
+        "projectileCount": 20,
+        "mergeWithEquipment": false
+    },
+    "ONHIT_BULLET_CREATE_SPELL_T6": {
+        "id": "0x1d96",
+        "displayId": "Onhit Spell Nova I",
+        "minDamage": 80,
+        "maxDamage": 165,
+        "projectileCount": 20,
+        "mergeWithEquipment": false
+    },
+    "ONHIT_BULLET_CREATE_QUIVER_T7": {
+        "id": "0x1d95",
+        "displayId": "Onhit Fire Arrow I",
+        "minDamage": 800,
+        "maxDamage": 900,
+        "projectileCount": 1,
+        "mergeWithEquipment": false
+    },
+    "ONHIT_BULLET_CREATE_QUIVER_T6": {
+        "id": "0x1d94",
+        "displayId": "Onhit Fire Arrow I",
+        "minDamage": 675,
+        "maxDamage": 775,
+        "projectileCount": 1,
+        "mergeWithEquipment": false
+    },
+    "Onhit Retaliation (Long) I": {
+        "id": "0x455",
+        "minDamage": 60,
+        "maxDamage": 60,
+        "projectileCount": 3,
+        "mergeWithEquipment": false
+    },
+    "Onhit Retaliation (Long) II": {
+        "id": "0x456",
+        "minDamage": 120,
+        "maxDamage": 120,
+        "projectileCount": 3,
+        "mergeWithEquipment": false
+    },
+    "Onhit Retaliation (Long) III": {
+        "id": "0x457",
+        "minDamage": 180,
+        "maxDamage": 180,
+        "projectileCount": 3,
+        "mergeWithEquipment": false
+    },
+    "Onhit Retaliation (Long) IV": {
+        "id": "0x458",
+        "minDamage": 240,
+        "maxDamage": 240,
+        "projectileCount": 3,
+        "mergeWithEquipment": false
+    },
+    "Onhit Retaliation (Mid) I": {
+        "id": "0x450",
+        "minDamage": 60,
+        "maxDamage": 60,
+        "projectileCount": 3,
+        "mergeWithEquipment": false
+    },
+    "Onhit Retaliation (Mid) II": {
+        "id": "0x451",
+        "minDamage": 120,
+        "maxDamage": 120,
+        "projectileCount": 4,
+        "mergeWithEquipment": false
+    },
+    "Onhit Retaliation (Mid) III": {
+        "id": "0x452",
+        "minDamage": 180,
+        "maxDamage": 180,
+        "projectileCount": 4,
+        "mergeWithEquipment": false
+    },
+    "Onhit Retaliation (Mid) IV": {
+        "id": "0x453",
+        "minDamage": 240,
+        "maxDamage": 240,
+        "projectileCount": 4,
+        "mergeWithEquipment": false
+    },
+    "Onhit Retaliation (Short) I": {
+        "id": "0x44b",
+        "minDamage": 60,
+        "maxDamage": 60,
+        "projectileCount": 5,
+        "mergeWithEquipment": false
+    },
+    "Onhit Retaliation (Short) II": {
+        "id": "0x44c",
+        "minDamage": 120,
+        "maxDamage": 120,
+        "projectileCount": 5,
+        "mergeWithEquipment": false
+    },
+    "Onhit Retaliation (Short) III": {
+        "id": "0x44d",
+        "minDamage": 180,
+        "maxDamage": 180,
+        "projectileCount": 5,
+        "mergeWithEquipment": false
+    },
+    "Onhit Retaliation (Short) IV": {
+        "id": "0x44e",
+        "minDamage": 240,
+        "maxDamage": 240,
+        "projectileCount": 5,
+        "mergeWithEquipment": false
+    },
+    "SulfW Ring A": {
+        "id": "0x65b4",
+        "minDamage": 400,
+        "maxDamage": 400,
+        "ignoreDefense": true
+    },
+    "SulfW Ring B": {
+        "id": "0x65b9",
+        "minDamage": 400,
+        "maxDamage": 400,
+        "ignoreDefense": true
+    },
+    "SulfW Ring C": {
+        "id": "0x65b5",
+        "minDamage": 400,
+        "maxDamage": 400,
+        "ignoreDefense": true
+    },
+    "SulfW Ring D": {
+        "id": "0x65b6",
+        "minDamage": 400,
+        "maxDamage": 400,
+        "ignoreDefense": true
+    },
+    "SulfW Ring E": {
+        "id": "0x65b7",
+        "minDamage": 400,
+        "maxDamage": 400,
+        "ignoreDefense": true
+    },
+    "2NecroST2ProcA": {
+        "id": "0x4256",
+        "minDamage": 800,
+        "maxDamage": 800,
+        "ignoreDefense": true
+    },
+    "2NecroST2ProcB": {
+        "id": "0x4257",
+        "minDamage": 400,
+        "maxDamage": 400,
+        "ignoreDefense": true
+    },
+    "Cannon Cluster Proc": {
+        "displayId": "Cannon Ball",
+        "id": "0x21e0",
+        "minDamage": 800,
+        "maxDamage": 800
+    },
+    "Moon Rage Proc": {
+        "displayId": "Moon Blast",
+        "id": "0x39b4",
+        "minDamage": 800,
+        "maxDamage": 800
+    },
+    "ChainScytheProcA": {
+        "id": "0x45cf",
+        "minDamage": 50,
+        "maxDamage": 50,
+        "ignoreDefense": true
+    },
+    "ChainScytheProcB": {
+        "id": "0x45d0",
+        "minDamage": 50,
+        "maxDamage": 50,
+        "ignoreDefense": true
+    },
+    "ChainScytheProcC": {
+        "id": "0x45d1",
+        "minDamage": 50,
+        "maxDamage": 50,
+        "ignoreDefense": true
+    },
+    "ChainScytheProcD": {
+        "id": "0x45d2",
+        "minDamage": 0,
+        "maxDamage": 0
+    },
+    "ChainScytheProcE": {
+        "id": "0x45d3",
+        "minDamage": 100,
+        "maxDamage": 300
+    },
+    "Kogbold Multitool Sweep Proj": {
+        "id": "0xc480",
+        "minDamage": 200,
+        "maxDamage": 250
+    },
+    "Kogbold Multitool Strike Proj": {
+        "id": "0xc482",
+        "minDamage": 450,
+        "maxDamage": 500,
+        "statusEffectOnHit": [
+            { "type": "Exposed", "durationMs": 200 }
+        ]
+    },
+    "Ninja Katana Proc Ability 1 Base": {
+        "id": "0x6871",
+        "minDamage": 32,
+        "maxDamage": 40,
+        "ignoreDefense": true
+    },
+    "Ninja Katana Proc Ability 1 Base Ring": {
+        "id": "0x6882",
+        "minDamage": 40,
+        "maxDamage": 50
+    },
+    "Ninja Katana Proc Ability 1 Armor": {
+        "id": "0x6872",
+        "minDamage": 48,
+        "maxDamage": 60,
+        "ignoreDefense": true
+    },
+    "Ninja Katana Proc Ability 1 Armor Ring": {
+        "id": "0x6883",
+        "minDamage": 60,
+        "maxDamage": 75
+    },
+    "Ninja Katana Proc Ability 1 Full Set": {
+        "id": "0x6877",
+        "minDamage": 48,
+        "maxDamage": 60,
+        "ignoreDefense": true
+    },
+    "Ninja Katana Proc Ability 1 Full Set Ring": {
+        "id": "0x6884",
+        "minDamage": 60,
+        "maxDamage": 75
+    },
+    "Ninja Katana Proc Ability 2 Base": {
+        "id": "0x6873",
+        "minDamage": 40,
+        "maxDamage": 48,
+        "ignoreDefense": true
+    },
+    "Ninja Katana Proc Ability 2 Base Ring": {
+        "id": "0x6885",
+        "minDamage": 50,
+        "maxDamage": 60
+    },
+    "Ninja Katana Proc Ability 2 Armor": {
+        "id": "0x6874",
+        "minDamage": 60,
+        "maxDamage": 72,
+        "ignoreDefense": true
+    },
+    "Ninja Katana Proc Ability 2 Armor Ring": {
+        "id": "0x6886",
+        "minDamage": 75,
+        "maxDamage": 90
+    },
+    "Ninja Katana Proc Ability 2 Full Set": {
+        "id": "0x6878",
+        "minDamage": 60,
+        "maxDamage": 72,
+        "ignoreDefense": true
+    },
+    "Ninja Katana Proc Ability 2 Full Set Ring": {
+        "id": "0x6887",
+        "minDamage": 75,
+        "maxDamage": 90
+    },
+    "Flail Sunken Fire Opal": {
+        "id": "0x3877",
+        "displayId": "Sunken Fire Opal",
+        "minDamage": 65,
+        "maxDamage": 85,
+        "mergeWithEquipment": false
+    },
+    "Flail Faded Heart Scarab": {
+        "id": "0x3876",
+        "displayId": "Faded Heart Scarab",
+        "minDamage": 65,
+        "maxDamage": 130,
+        "mergeWithEquipment": false
+    },
+    "Flail Fractured Hannya": {
+        "id": "0x385e",
+        "displayId": "Fractured Hannya",
+        "minDamage": 95,
+        "maxDamage": 135,
+        "mergeWithEquipment": false
+    },
+    "Longbow Sunken Fire Opal": {
+        "id": "0x386f",
+        "displayId": "Sunken Fire Opal",
+        "minDamage": 65,
+        "maxDamage": 85,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Longbow Faded Heart Scarab": {
+        "id": "0x386c",
+        "displayId": "Faded Heart Scarab",
+        "minDamage": 110,
+        "maxDamage": 140,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Longbow Fractured Hannya": {
+        "id": "0x386d",
+        "displayId": "Fractured Hannya",
+        "minDamage": 90,
+        "maxDamage": 120,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Spellblade Sunken Fire Opal": {
+        "id": "0x3781",
+        "displayId": "Sunken Fire Opal",
+        "minDamage": 65,
+        "maxDamage": 85,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Spellblade Faded Heart Scarab": {
+        "id": "0x386a",
+        "displayId": "Faded Heart Scarab",
+        "minDamage": 65,
+        "maxDamage": 90,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Spellblade Fractured Hannya": {
+        "id": "0x385b",
+        "displayId": "Fractured Hannya",
+        "minDamage": 80,
+        "maxDamage": 95,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Blades Sunken Fire Opal": {
+        "id": "0x387e",
+        "displayId": "Sunken Fire Opal",
+        "minDamage": 65,
+        "maxDamage": 85,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Blades Faded Heart Scarab": {
+        "id": "0x387f",
+        "displayId": "Faded Heart Scarab",
+        "minDamage": 80,
+        "maxDamage": 120,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Blades Fractured Hannya": {
+        "id": "0x3883",
+        "displayId": "Fractured Hannya",
+        "minDamage": 85,
+        "maxDamage": 100,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Tachi Sunken Fire Opal": {
+        "id": "0x387b",
+        "displayId": "Sunken Fire Opal",
+        "minDamage": 65,
+        "maxDamage": 85,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Tachi Faded Heart Scarab": {
+        "id": "0x387c",
+        "displayId": "Faded Heart Scarab",
+        "minDamage": 80,
+        "maxDamage": 120,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Tachi Fractured Hannya": {
+        "id": "0x387d",
+        "displayId": "Fractured Hannya",
+        "minDamage": 90,
+        "maxDamage": 125,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Morning Star Fire Opal": {
+        "id": "0x3884",
+        "displayId": "Sunken Fire Opal",
+        "minDamage": 65,
+        "maxDamage": 85,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Morning Star Faded Heart Scarab": {
+        "id": "0x3885",
+        "displayId": "Faded Heart Scarab",
+        "minDamage": 70,
+        "maxDamage": 70,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "Morning Star Fractured Hannya": {
+        "id": "0x3780",
+        "displayId": "Fractured Hannya",
+        "minDamage": 90,
+        "maxDamage": 90,
+        "ignoreDefense": true,
+        "mergeWithEquipment": false
+    },
+    "AoOPoison Cluster 1": {
+        "minDamage": 550,
+        "maxDamage": 550
+    },
+    "AoOPoison Cluster 2": {
+        "minDamage": 550,
+        "maxDamage": 550
+    },
+    "AoOPoison Cluster 3": {
+        "minDamage": 550,
+        "maxDamage": 550
+    },
+    "AoOScepterProc": {
+        "id": "0x5224",
+        "minDamage": 200,
+        "maxDamage": 200
+    },
+    "AoO Shield Proc": {
+        "id": "0x1b1b",
+        "displayId": "Full Strength",
+        "minDamage": 350,
+        "maxDamage": 450,
+        "mergeWithEquipment": false
+    },
+    "AoOTomeHelperTwo": {
+        "displayId": "Dark Energy Orb",
+        "minDamage": 350,
+        "maxDamage": 350,
+        "lifetimeMs": 6000,
+        "triggerCooldownMs": 400,
+        "mergeWithEquipment": false
+    },
+    "CorrPala Dark Blast": {
+        "id": "0x43e7",
+        "minDamage": 200,
+        "maxDamage": 400
+    },
+    "Fiery Set Weaker Projectile 1": {
+        "id": "0x382c",
+        "minDamage": 550,
+        "maxDamage": 550
+    },
+    "Fiery Set Weaker Projectile 2": {
+        "id": "0x382f",
+        "minDamage": 550,
+        "maxDamage": 550
+    },
+    "Fiery Set Weaker Projectile 3": {
+        "id": "0x3830",
+        "minDamage": 550,
+        "maxDamage": 550
+    },
+    "Fiery Set Weaker Projectile 4": {
+        "id": "0x3838",
+        "minDamage": 550,
+        "maxDamage": 550
+    },
+    "Fiery Set Weaker Projectile 5": {
+        "id": "0x3839",
+        "minDamage": 550,
+        "maxDamage": 550
+    },
+    "Fiery Set Weaker Projectile 6": {
+        "id": "0x383a",
+        "minDamage": 550,
+        "maxDamage": 550
+    },
+    "Fiery Set Stronger Projectile 1": {
+        "id": "0x3833",
+        "minDamage": 600,
+        "maxDamage": 600
+    },
+    "Fiery Set Stronger Projectile 2": {
+        "id": "0x3834",
+        "minDamage": 600,
+        "maxDamage": 600
+    },
+    "Fiery Set Stronger Projectile 3": {
+        "id": "0x3835",
+        "minDamage": 600,
+        "maxDamage": 600
+    },
+    "Fiery Set Stronger Projectile 4": {
+        "id": "0x7944",
+        "minDamage": 600,
+        "maxDamage": 600
+    },
+    "Fiery Set Stronger Projectile 5": {
+        "id": "0x7945",
+        "minDamage": 600,
+        "maxDamage": 600
+    },
+    "Fiery Set Stronger Projectile 6": {
+        "id": "0x7946",
+        "minDamage": 600,
+        "maxDamage": 600
+    },
+    "Spark": {
+        "id": "0x7eb8",
+        "minDamage": 200,
+        "maxDamage": 275,
+        "projectileCount": 3
+    },
+    "Crystal Key Proc": {
+        "id": "0x4b33",
+        "minDamage": 100,
+        "maxDamage": 100,
+        "statusEffectOnHit": [
+            { "type": "Slowed", "durationMs": 200 },
+            { "type": "Exposed", "durationMs": 400 }
+        ]
+    },
+    "E.Y.E.": {
+        "id": "0x3d90",
+        "minDamage": 300,
+        "maxDamage": 400
+    },
+    "Egg Basher Impact": {
+        "displayId": "Yolky Impact",
+        "minDamage": 330,
+        "maxDamage": 395,
+        "mergeWithEquipment": false
+    },
+    "Chocolate Puddle": {
+        "minDamage": 200,
+        "maxDamage": 200,
+        "lifetimeMs": 5000,
+        "triggerCooldownMs": 1000,
+        "mergeWithEquipment": false
+    },
+    "Hightened Senses": {
+        "id": "0x4b47",
+        "minDamage": 400,
+        "maxDamage": 400,
+        "projectileCount": 3,
+        "mergeWithEquipment": false
+    }
+}
